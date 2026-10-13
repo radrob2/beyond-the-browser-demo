@@ -8,7 +8,10 @@ Everything you need to see what the AI agent was given, what it produced, and to
 ## Links
 
 - **Slides:** https://docs.google.com/presentation/d/13OPwpVx8OkNPJcNG9Z_TDxvvmtjVFq2nNoRRe84Cz2I/edit?usp=sharing
-- **AI questionnaire results** (anonymous responses): https://docs.google.com/spreadsheets/d/1Zsx3o8ui1wtvBTezVloTgpM1qOYVOvnXcGhHdTY20tE/edit?usp=sharing
+- **AI questionnaire** (anonymous):
+  - results summary with charts: https://docs.google.com/forms/d/e/1FAIpQLScQJDUHMn-eBvsFz4QPwr9eReQt7WRqdYRddYlkHA6FeCHLEw/viewanalytics
+  - all responses as a spreadsheet: https://docs.google.com/spreadsheets/d/1Zsx3o8ui1wtvBTezVloTgpM1qOYVOvnXcGhHdTY20tE/edit?usp=sharing
+  - the questionnaire itself: https://forms.gle/NmHR7Fur4cqeCYYF7
 - **Science motivator** (the tool we built in the group work during the training week):
   https://radrob2.github.io/science-motivator/ (source: https://github.com/radrob2/science-motivator)
 - **Free GitHub Copilot via GitHub Education** (setup steps): https://docs.google.com/document/d/1C_yjZ0_iAzP0AMjp3RJBskXo70ZPwiTVnGwONo0vEQU/edit?usp=sharing
