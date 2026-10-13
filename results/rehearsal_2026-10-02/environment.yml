@@ -1,0 +1,15 @@
+name: hyalella_dryrun
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - mafft
+  - iqtree
+  - blast
+  - seqkit
+  - vsearch
+  - biopython
+  - pandas
+  - matplotlib
+  - requests

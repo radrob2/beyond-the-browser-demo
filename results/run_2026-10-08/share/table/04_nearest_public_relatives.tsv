@@ -1,0 +1,41 @@
+our_sample	source	nearest_public_relative	relative_species	relative_country	relative_locality	relative_lat_lon	percent_identity	aligned_bp	n_public_equally_close	countries_of_equally_close	interpretation	qc_status
+genome_hyalella_sp_ata01_cox1_extracted	genome	JX446365.1	Hyalella azteca	not recorded	not recorded		99.6	1569	1		matches a known lineage	kept
+genome_hyalella_sp_ata02_cox1_extracted	genome	JX446361.1	Hyalella azteca	not recorded	not recorded		99.4	1560	1		matches a known lineage	kept
+genome_hyalella_sp_ata03_cox1_extracted	genome	JX446361.1	Hyalella azteca	not recorded	not recorded		99.8	1560	1		matches a known lineage	kept
+genome_hyalella_sp_ata04_cox1_extracted	genome	JX446358.1	Hyalella azteca	not recorded	not recorded		99.7	1560	1		matches a known lineage	kept
+genome_hyalella_sp_ata05_cox1_extracted	genome	JX446363.1	Hyalella azteca	not recorded	not recorded		99.5	1560	1		matches a known lineage	kept
+genome_hyalella_sp_ata06_cox1_extracted	genome	KU756613.1	Hyalella sp. clade1 JL-2016	not recorded	not recorded		99.4	637	1		matches a known lineage	kept
+genome_hyalella_sp_ata07_cox1_extracted	genome	JX446361.1	Hyalella azteca	not recorded	not recorded		99.4	1560	1		matches a known lineage	kept
+genome_hyalella_sp_ata08_cox1_extracted	genome	JX446367.1	Hyalella azteca	not recorded	not recorded		99.6	1569	1		matches a known lineage	kept
+genome_hyalella_sp_ata09_cox1_extracted	genome	JX446360.1	Hyalella azteca	not recorded	not recorded		99.4	1560	1		matches a known lineage	kept
+genome_hyalella_sp_ata10_cox1_extracted	genome	JX446358.1	Hyalella azteca	not recorded	not recorded		99.7	1560	1		matches a known lineage	kept
+alba_pcr_2025-03-01	pcr	MW714609.1	Hyalella nefrens	not recorded	not recorded		98.1	626	5		matches a known lineage	kept
+anvi_pcr_2025-07-09	pcr	OR726343.1	Hyalella sp. O VI-2023a	Argentina	not recorded		98.1	581	1	Argentina	matches a known lineage	kept
+biri_pcr_2025-03-06	pcr	OR726343.1	Hyalella sp. O VI-2023a	Argentina	not recorded		97.2	608	1	Argentina	matches a known lineage	kept
+brsk_pcr_2025-07-14	pcr	OR726345.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.7	600	4	Argentina	matches a known lineage	kept
+chol_pcr_2025-03-11	pcr	OR726343.1	Hyalella sp. O VI-2023a	Argentina	not recorded		99.4	628	1	Argentina	matches a known lineage	kept
+crsp_pcr_2025-07-19	pcr	PX696973.1	Hyalella azteca	France	Lyon		99.2	610	2	France	matches a known lineage	kept
+deep_pcr_2025-03-16	pcr	OR726345.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.5	583	4	Argentina	matches a known lineage	kept
+drft_pcr_2025-07-24	pcr	PV983600.1	Hyalella azteca	Canada	Alberta, SC4		98.3	577	1	Canada	matches a known lineage	kept
+easy_pcr_2025-03-21	pcr	PX696973.1	Hyalella azteca	France	Lyon		98.3	574	1	France	matches a known lineage	kept
+fern_pcr_2025-03-26	pcr	OR726343.1	Hyalella sp. O VI-2023a	Argentina	not recorded		99.2	639	1	Argentina	matches a known lineage	kept
+gaze_pcr_2025-03-31	pcr	OR726345.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.9	627	3	Argentina	matches a known lineage	kept
+hope_pcr_2025-04-05	pcr	PQ788893.1	Hyalella sp. 1 AGC-2024c	USA	Nevada, Nye County, Hot Creek Spring, Wayne E. Kirch WMA	38.379295 N 115.151528 W	97.4	621	2	USA	matches a known lineage	kept
+isle_pcr_2025-04-10	pcr	OR726345.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.2	597	4	Argentina	matches a known lineage	kept
+jolt_pcr_2025-04-15	pcr	OR726343.1	Hyalella sp. O VI-2023a	Argentina	not recorded		97.9	575	1	Argentina	matches a known lineage	kept
+kelp_pcr_2025-04-20	pcr	MG312870.1	Hyalella azteca	Canada	Manitoba, Churchill, 11 km S Churchill, Goose Creek, Bridge 2	58.662 N 94.165 W	98.9	571	2	Canada	matches a known lineage	kept
+loch_pcr_2025-04-25	pcr	MN582297.1	Hyalella sp. A1	not recorded	not recorded		99.1	547	2		matches a known lineage	kept
+moor_pcr_2025-04-30	pcr	OR726345.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.5	617	3	Argentina	matches a known lineage	kept
+nova_pcr_2025-05-05	pcr	OR726346.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.5	650	2	Argentina	matches a known lineage	kept
+oslo_pcr_2025-05-10	pcr	OR726345.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.7	615	4	Argentina	matches a known lineage	kept
+pine_pcr_2025-05-15	pcr	PQ788893.1	Hyalella sp. 1 AGC-2024c	USA	Nevada, Nye County, Hot Creek Spring, Wayne E. Kirch WMA	38.379295 N 115.151528 W	98.6	621	2	USA	matches a known lineage	kept
+quay_pcr_2025-05-20	pcr	OR726345.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.4	552	4	Argentina	matches a known lineage	kept
+rove_pcr_2025-05-25	pcr	PV983610.1	Hyalella azteca	Canada	Alberta, SC7		99.1	563	1	Canada	matches a known lineage	kept
+silt_pcr_2025-05-30	pcr	OR726346.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.8	650	3	Argentina	matches a known lineage	kept
+tarn_pcr_2025-06-04	pcr	MN582348.1	Hyalella sp. C2	not recorded	not recorded		98.6	485	1		matches a known lineage	kept
+urge_pcr_2025-06-09	pcr	PQ788893.1	Hyalella sp. 1 AGC-2024c	USA	Nevada, Nye County, Hot Creek Spring, Wayne E. Kirch WMA	38.379295 N 115.151528 W	99.0	621	2	USA	matches a known lineage	kept
+vale_pcr_2025-06-14	pcr	OR726343.1	Hyalella sp. O VI-2023a	Argentina	not recorded		98.1	635	1	Argentina	matches a known lineage	kept
+wand_pcr_2025-06-19	pcr	OM513737.1	Hyalella nefrens	Peru	not recorded		98.7	606	2	Peru	matches a known lineage	kept
+xena_pcr_2025-06-24	pcr	PQ788893.1	Hyalella sp. 1 AGC-2024c	USA	Nevada, Nye County, Hot Creek Spring, Wayne E. Kirch WMA	38.379295 N 115.151528 W	97.7	621	2	USA	matches a known lineage	kept
+yawn_pcr_2025-06-29	pcr	OR726345.1	Hyalella sp. O VI-2023a	Argentina	Calalaste		98.5	582	3	Argentina	matches a known lineage	kept
+zest_pcr_2025-07-04	pcr	OR726343.1	Hyalella sp. O VI-2023a	Argentina	not recorded		98.8	586	1	Argentina	matches a known lineage	kept

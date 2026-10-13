@@ -1,0 +1,29 @@
+BUILD START 2026-10-02T13:52:14+02:00
+The pipeline is built and runs end to end with one command, `./src/run_pipeline.sh`. A clean rerun from scratch reproduced every step's counts. I've opened `share/summary.html` and `share/figure/07_tree_cox1.pdf`.
+
+## What the result says
+
+- **18 of 30 PCR samples** belong to an unnamed high-Andean lineage, labelled *Hyalella* sp. "O" in the databases (BOLD cluster ACL3635). Its closest known relatives are from Calalaste and Quebrada del Diablo in the Argentine Puna, a lagoon in Antofagasta, Chile, and Peru. Identity is 97.2–99.4%, and the group has 99% bootstrap support. This is the biogeographically expected answer.
+- **3 PCR samples** (alba, loch, wand) sit in the Lake Titicaca species flock, at 98.1–99.1%. The barcode can't separate the flock's species, so they can't be given a species name.
+- **All 10 genome-extracted sequences and 9 PCR samples match North American lineages** at 97.4–99.8%. These are *H. azteca* (eastern North America, Alberta, and a lab culture in Lyon) and a thermal-spring species from Nevada. That isn't a plausible natural pattern for Atacama animals. Please rule out contamination or a sample mix-up before interpreting it. It's especially telling that every genome assembly falls here while most PCR samples are Andean.
+- **No clear new species from the barcode alone.** Every sample is at least 97.2% identical to a public sequence, though the main Andean lineage has no formal species name yet.
+
+## Choices you should know about
+
+- **Both databases.** I used NCBI and BOLD. BOLD added 2,088 records not in GenBank, including the Chilean and Argentine relatives above.
+- **The tree is a subset.** It shows 236 representative sequences so it stays readable. The nearest-relative table compares each sample against all 1,949 public sequences that passed QC.
+- **The tree is constrained.** Without a constraint, cox1 pulled some outgroup genera inside *Hyalella*, a known artefact of a fast-changing gene. I told IQ-TREE that *Hyalella* forms one group separate from the outgroups; relationships within *Hyalella* were left free. This is stated in the report.
+- **Some locations come from publication titles.** Where a GenBank record had no country, the table infers a location from the paper title (e.g. Lake Titicaca) and labels it as such. It never writes it into the country column.
+- **Small changes to the conventions setup.** `config.sh` had been deleted in a recent commit, so I recreated it. The table step (08) runs before the plot step (07) because the plot uses it.
+- **Tree tip labels are tiny.** They're readable by zooming in the PDF. The large brackets and legend are what reads on a projector.
+
+Nothing is committed. Pipeline scripts are in `src/`, with `config.sh`, `environment.yml` (env `hyalella_dryrun`) and `readme.md` at the top level.
+
+Files are in `share/`:
+- `summary.html`
+- `report.md`
+- `08_nearest_relatives.tsv`
+- `08_nearest_relatives_grouped.tsv`
+- `figure/07_tree_cox1.pdf`
+- `figure/07_tree_cox1.png`
+BUILD END 2026-10-02T14:24:00+02:00 exit=0

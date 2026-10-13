@@ -1,0 +1,8 @@
+[05] mafft --auto on 115 sequences, 10 threads
+Strategy:
+ FFT-NS-i (Standard)
+[05] aligned: 115 sequences x 1569 columns
+[05] wrote <project>/work/05_align/05_align_cox1.fasta
+real 5.74
+user 3.25
+sys 0.92

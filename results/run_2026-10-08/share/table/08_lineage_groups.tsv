@@ -1,0 +1,9 @@
+group	n_pcr	n_genome	nearest_public_species	nearest_public_countries	identity_min	identity_max	our_samples
+A	18	0	Hyalella sp. O VI-2023a	Argentina	97.2	99.4	anvi_pcr_2025-07-09, biri_pcr_2025-03-06, brsk_pcr_2025-07-14, chol_pcr_2025-03-11, deep_pcr_2025-03-16, fern_pcr_2025-03-26, gaze_pcr_2025-03-31, isle_pcr_2025-04-10, jolt_pcr_2025-04-15, moor_pcr_2025-04-30, nova_pcr_2025-05-05, oslo_pcr_2025-05-10, quay_pcr_2025-05-20, silt_pcr_2025-05-30, tarn_pcr_2025-06-04, vale_pcr_2025-06-14, yawn_pcr_2025-06-29, zest_pcr_2025-07-04
+B	3	0	Hyalella nefrens	Peru	98.1	99.1	alba_pcr_2025-03-01, loch_pcr_2025-04-25, wand_pcr_2025-06-19
+C	3	0	Hyalella azteca	Canada	98.3	99.1	drft_pcr_2025-07-24, kelp_pcr_2025-04-20, rove_pcr_2025-05-25
+D	2	0	Hyalella azteca	France	98.3	99.2	crsp_pcr_2025-07-19, easy_pcr_2025-03-21
+E	0	1	Hyalella azteca	country unknown	99.6	99.6	genome_hyalella_sp_ata08_cox1_extracted
+F	4	0	Hyalella sp. 1 AGC-2024c	USA	97.4	99.0	hope_pcr_2025-04-05, pine_pcr_2025-05-15, urge_pcr_2025-06-09, xena_pcr_2025-06-24
+G	0	1	Hyalella azteca	country unknown	99.6	99.6	genome_hyalella_sp_ata01_cox1_extracted
+H	0	8	Hyalella azteca	country unknown	99.4	99.8	genome_hyalella_sp_ata02_cox1_extracted, genome_hyalella_sp_ata03_cox1_extracted, genome_hyalella_sp_ata04_cox1_extracted, genome_hyalella_sp_ata05_cox1_extracted, genome_hyalella_sp_ata06_cox1_extracted, genome_hyalella_sp_ata07_cox1_extracted, genome_hyalella_sp_ata09_cox1_extracted, genome_hyalella_sp_ata10_cox1_extracted

@@ -1,0 +1,14 @@
+<project>/./src/08_plot.py:232: UserWarning: Glyph 8594 (\N{RIGHTWARDS ARROW}) missing from font(s) Helvetica Neue.
+  fig.savefig(out_prefix + '.pdf')
+<project>/./src/08_plot.py:233: UserWarning: Glyph 8594 (\N{RIGHTWARDS ARROW}) missing from font(s) Helvetica Neue.
+  fig.savefig(out_prefix + '.png', dpi=200)
+[08] drawn rows: 77 (from 92 tips); groups: 8
+[08]   A: 18 pcr + 0 genome -> Hyalella sp. O VI-2023a [Argentina] 97.2-99.4%
+[08]   B: 3 pcr + 0 genome -> Hyalella nefrens [Peru] 98.1-99.1%
+[08]   C: 3 pcr + 0 genome -> Hyalella azteca [Canada] 98.3-99.1%
+[08]   D: 2 pcr + 0 genome -> Hyalella azteca [France] 98.3-99.2%
+[08]   E: 0 pcr + 1 genome -> Hyalella azteca [country not recorded] 99.6-99.6%
+[08]   F: 4 pcr + 0 genome -> Hyalella sp. 1 AGC-2024c [USA] 97.4-99.0%
+[08]   G: 0 pcr + 1 genome -> Hyalella azteca [country not recorded] 99.6-99.6%
+[08]   H: 0 pcr + 8 genome -> Hyalella azteca [country not recorded] 99.4-99.8%
+[08] wrote <project>/share/figure/08_tree_cox1.pdf / .png and <project>/share/table/08_lineage_groups.tsv

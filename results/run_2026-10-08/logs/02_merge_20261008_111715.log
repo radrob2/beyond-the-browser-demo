@@ -1,0 +1,10 @@
+[02] merging public + pcr + genome-extracted cox1
+[02] merged records: 1101
+[02]   public: 1061
+[02]   pcr: 30
+[02]   genome: 10
+[02]   unknown: 0
+[02] wrote <project>/work/02_merge/02_merge_cox1.fasta
+real 0.81
+user 0.07
+sys 0.05

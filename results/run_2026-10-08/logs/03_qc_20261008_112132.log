@@ -1,0 +1,11 @@
+[03] length filter (>= 300 bp)
+[03]   input 1101, headers made unique 0, kept 1101, dropped short 0
+[03] identity to reference (>= 0.70), both strands
+[03] filter, orient, deduplicate, check headers
+[03]   source   kept  dropped_short  dropped_low_identity  dropped_duplicate
+[03]   public    869              0                     2                190
+[03]   pcr        30              0                     0                  0
+[03]   genome     10              0                     0                  0
+[03]   reverse-complemented to match reference strand: 2
+[03]   final unique sequences: 909
+[03] wrote <project>/work/03_qc/03_qc_cox1.fasta

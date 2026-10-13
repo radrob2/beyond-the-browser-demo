@@ -1,0 +1,31 @@
+AUDIT START 2026-10-02T14:24:39+02:00
+The audit is written to `share/audit.md`, and five audit slides are appended to `share/summary.html` after the existing findings. The page structure checks out. I didn't change any pipeline code or other outputs. I recomputed everything with separate scripts in a scratch directory and only printed counts, never sequences.
+
+**Most serious problems**
+1. **The QC reference is in the data, the alignment and the tree.** It is byte-identical to public record PX696973.1 (an *H. azteca* lab culture from Lyon) and to its BOLD copy GBAAX85597-26. That copy is a tip in the tree. The report's statement "the reference is in no output" is false. Two of our PCR samples, crsp and easy, have the reference itself as their nearest relative (99.2 % and 98.3 %).
+2. **The figure's support dots are partly on the wrong branches.** Re-rooting in `07_plot.py` leaves labels on the wrong nodes: 20 of 233 nodes show another branch's support. Five get a "≥ 95 %" dot when their real support is 45–83 %.
+3. **The report's "81–95 %" support for the genome-derived samples isn't in the tree.** The 10 genome sequences don't form a group (support 59). They are also very different from each other (80–99 % identical, spread across four BINs, i.e. BOLD species-level clusters). That fits a single lab-culture contamination poorly; a file or assembly mix-up looks more likely.
+4. **Overstated labels.**
+   - "Nevada spring endemic": hope, pine, urge and xena are equally close to 8 *H. azteca* records of unknown origin in the same BIN.
+   - "*H.* sp. C2 is a Titicaca lineage": its isolate code is 3TK10, the same as the Peruvian sp. O population, and it sits inside the sp. O clade.
+   - The Titicaca trio's grouping in the tree is unsupported (55).
+   - The figure and summary page drop the "(from publication title)" caveat, so title-derived places look like recorded localities.
+5. **The QC filters.**
+   - The 70 % identity filter passes every outgroup (Caprella at 71 %), so it can't catch mislabelled non-*Hyalella* records. The 58 records it did drop are genuinely not usable *Hyalella* cox1.
+   - 180 of the "BOLD-only" records are exact copies of downloaded GenBank records, so the public record counts are inflated.
+   - Keeping only the top 25 hits hides real Chilean relatives of alba, loch and wand (95–96 %).
+   - The "1,949 public sequences" figure is wrong: the search actually used 3,043.
+
+**What checks out**
+- All 40 nearest-relative identities, top hits and tie counts reproduce exactly.
+- The QC counts in the logs are right.
+- The Andean, Nevada, Canada and France groups are well supported (99–100).
+- The tree constraint is justified: I re-ran the tree without it, the outgroups scatter into *Hyalella*, and every grouping of our samples stays the same.
+
+**Still needs a domain expert:** where the reference and the genome assemblies came from, the taxonomy of sp. O versus C2/3TK10 and "sp. 1 AGC-2024c", which records are lab versus wild strains, the outgroup records, and whether 97–98 % identity means "same species" in *Hyalella*. The full list is in section D of `audit.md`.
+
+**Other things to know**
+- Re-running step 09 regenerates `summary.html` and will remove the appended audit slides.
+- `src/`, `share/` and `config.sh` aren't committed to git.
+- The final figure came from an edit to `07_plot.py` made after the full pipeline run.
+AUDIT END 2026-10-02T14:36:48+02:00 exit=0

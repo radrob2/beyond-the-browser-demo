@@ -1,0 +1,2 @@
+Sequence data lives here. Claude can run pipeline tools that consume these
+files but should not read sequence content directly.

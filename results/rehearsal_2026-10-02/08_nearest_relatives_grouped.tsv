@@ -1,0 +1,8 @@
+relative_species	n_samples	n_pcr	n_genome	samples	min_pct_identity	max_pct_identity	relative_bins	closest_relative_locations	n_with_chilean_hit	chilean_min_pct	chilean_max_pct	chilean_regions
+Hyalella sp. O VI-2023a	17	17	0	anvi, biri, brsk, chol, deep, fern, gaze, isle, jolt, moor, nova, oslo, quay, silt, vale, yawn, zest	97.2	99.4	BOLD:ACL3635	Argentina; Argentina, Calalaste	17	96.5	98.7	Antofagasta
+Hyalella azteca	14	5	9	crsp, drft, easy, kelp, rove, ata01, ata02, ata03, ata04, ata05, ata07, ata08, ata09, ata10	98.3	99.8	BOLD:AAA1702, BOLD:AAA1706, BOLD:AAA1708, BOLD:ACF1948, BOLD:ADF4362	Canada, Alberta; France, Lyon; eastern North America, lab or wild*	0			
+Hyalella sp. 1 AGC-2024c	4	4	0	hope, pine, urge, xena	97.4	99.0	BOLD:AAA1725	USA, Nevada	0			
+Hyalella nefrens	2	2	0	alba, wand	98.1	98.7	BOLD:AGT3816	Lake Titicaca, Peru/Bolivia*	0			
+Hyalella sp. A1	1	1	0	loch	99.1	99.1		Lake Titicaca, Peru/Bolivia*	0			
+Hyalella sp. C2	1	1	0	tarn	98.6	98.6		Lake Titicaca, Peru/Bolivia*	1	97.8	97.8	Antofagasta
+Hyalella sp. clade1 JL-2016	1	0	1	ata06	99.4	99.4	BOLD:ACF2658	laboratory culture used in toxicity tests*	0			

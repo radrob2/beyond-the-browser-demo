@@ -1,0 +1,188 @@
+=== 01_download_public: 2026-10-08 11:14:38 ===
+ingroup=Hyalella  outgroup_candidates=40  length=300..2000 bp
+NCBI_API_KEY: not set -> 0.36s between requests, 3 workers
+[1/3] ingroup esearch: Hyalella[Organism] AND (COI[Gene] OR COX1[Gene] OR CO1[Gene] OR COXI[Gene] OR "cytochrome c oxidase subunit I"[Title] OR "cytochrome oxidase subunit I"[Title] OR "cytochrome oxidase subunit 1"[Title] OR "cytochrome c oxidase subunit 1"[Title]) AND 300:2000[SLEN]
+  1021 records match
+  [hyalella] 9 efetch batches queued (3 fasta, 6 genbank-xml)
+  [hyalella] got 1021 fasta records, 1021 genbank records (expected 1021)
+[2/3] outgroup: one cox1 record per genus (56 genera tried)
+  outgroup query template: <Genus>[Organism] AND Amphipoda[Organism] AND (COI[Gene] OR COX1[Gene] OR CO1[Gene] OR COXI[Gene] OR "cytochrome c oxidase subunit I"[Title] OR "cytochrome oxidase subunit I"[Title] OR "cytochrome oxidase subunit 1"[Title] OR "cytochrome c oxidase subunit 1"[Title]) AND 600:2000[SLEN]
+  retry 1/6 for esearch.fcgi after HTTP 429; sleeping 2s
+  retry 1/6 for esearch.fcgi after HTTP 429; sleeping 2s
+  retry 1/6 for esearch.fcgi after HTTP 429; sleeping 2s
+  retry 1/6 for esearch.fcgi after HTTP 429; sleeping 2s
+  retry 1/6 for esearch.fcgi after HTTP 429; sleeping 2s
+    Hyale                relative total_hits=27     usable_of_first_40=27  AF520435.1
+    Parhyale             relative total_hits=22     usable_of_first_40=22  EF989709.1
+    Apohyale             relative total_hits=52     usable_of_first_40=40  KM611619.1
+    Ptilohyale           relative total_hits=6      usable_of_first_40=6   OP933756.1
+    Protohyale           relative total_hits=17     usable_of_first_40=17  JX545472.1
+    Serejohyale          relative total_hits=1      usable_of_first_40=1   OP933755.1
+    Platorchestia        relative total_hits=557    usable_of_first_40=40  OQ512243.1
+    Orchestia            relative total_hits=55     usable_of_first_40=37  AY152751.1
+    Talitrus             relative total_hits=21     usable_of_first_40=21  KF369187.1
+    Talorchestia         relative total_hits=265    usable_of_first_40=40  PV991283.1
+    Chiltonia            relative total_hits=0      usable_of_first_40=0   SKIPPED
+    Austrochiltonia      relative total_hits=285    usable_of_first_40=40  JN009894.1
+    Allorchestes         relative total_hits=2      usable_of_first_40=2   JX545449.1
+    Parallorchestes      relative total_hits=49     usable_of_first_40=40  HQ945468.1
+    Dogielinotus         relative total_hits=0      usable_of_first_40=0   SKIPPED
+    Transorchestia       relative total_hits=0      usable_of_first_40=0   SKIPPED
+    Cryptorchestia       relative total_hits=45     usable_of_first_40=36  MK721831.1
+    Bellorchestia        relative total_hits=23     usable_of_first_40=23  KX812472.1
+    Megalorchestia       relative total_hits=24     usable_of_first_40=24  KM611560.1
+    Americorchestia      relative total_hits=15     usable_of_first_40=15  FJ581464.1
+    Sardorchestia        relative total_hits=2      usable_of_first_40=2   MG655917.1
+    Deshayesorchestia    relative total_hits=4      usable_of_first_40=4   KT208744.1
+    Britorchestia        relative total_hits=2      usable_of_first_40=2   MG655918.1
+    Speziorchestia       relative total_hits=0      usable_of_first_40=0   SKIPPED
+    Macarorchestia       relative total_hits=20     usable_of_first_40=20  HQ679919.1
+    Arcitalitrus         relative total_hits=32     usable_of_first_40=32  OQ512531.1
+    Talitroides          relative total_hits=40     usable_of_first_40=38  AB741765.1
+    Phreatochiltonia     relative total_hits=1      usable_of_first_40=1   KT958045.1
+    Najna                relative total_hits=1      usable_of_first_40=1   LC735837.1
+    Parhyalella          relative total_hits=0      usable_of_first_40=0   SKIPPED
+    Hyachelia            relative total_hits=2      usable_of_first_40=2   MZ407746.1
+    Afrochiltonia        relative total_hits=0      usable_of_first_40=0   SKIPPED
+    Wangiannachiltonia   relative total_hits=185    usable_of_first_40=40  JX900286.1
+    Arabunnachiltonia    relative total_hits=10     usable_of_first_40=10  JX900171.1
+    Gammarus             distant  total_hits=5610   usable_of_first_40=40  QB095133.1
+    Echinogammarus       distant  total_hits=326    usable_of_first_40=40  MW324680.1
+    Niphargus            distant  total_hits=5165   usable_of_first_40=40  PZ830451.1
+    Crangonyx            distant  total_hits=215    usable_of_first_40=40  LC671965.1
+    Eulimnogammarus      distant  total_hits=745    usable_of_first_40=40  PZ177596.1
+    Dikerogammarus       distant  total_hits=890    usable_of_first_40=40  PP390979.1
+    Pontogammarus        distant  total_hits=334    usable_of_first_40=40  OP466463.1
+    Corophium            distant  total_hits=21     usable_of_first_40=21  KT208717.1
+    Monoporeia           distant  total_hits=16     usable_of_first_40=16  KM068102.1
+    Caprella             distant  total_hits=1230   usable_of_first_40=40  OQ323214.1
+    Jassa                distant  total_hits=658    usable_of_first_40=40  MT518133.1
+    Ampithoe             distant  total_hits=430    usable_of_first_40=40  HQ987379.1
+    Melita               distant  total_hits=423    usable_of_first_40=40  LC637608.1
+    Bathyporeia          distant  total_hits=40     usable_of_first_40=40  KF808158.1
+    Gammaracanthus       distant  total_hits=27     usable_of_first_40=27  HM380165.1
+    Pallaseopsis         distant  total_hits=99     usable_of_first_40=40  OR198439.1
+    Stygobromus          distant  total_hits=4      usable_of_first_40=4   HE794980.1
+    Synurella            distant  total_hits=48     usable_of_first_40=40  HE794990.1
+    Pontoporeia          distant  total_hits=17     usable_of_first_40=17  DQ889122.1
+    Leucothoe            distant  total_hits=18     usable_of_first_40=18  KX224054.1
+    Eusirus              distant  total_hits=155    usable_of_first_40=40  MT985613.1
+    Orchomenella         distant  total_hits=116    usable_of_first_40=40  MF124139.1
+  outgroup genera: 24 relatives (Talitroidea/Hyaloidea) + 16 distant = 40 (wanted 40)
+  [outgroup] 2 efetch batches queued (1 fasta, 1 genbank-xml)
+  [outgroup] got 40 fasta records, 40 genbank records (expected 40)
+[3/3] writing outputs to <project>/work/01_download
+
+=== sanity checks ===
+records: hyalella=1021  outgroup=40  total=1061
+fasta records (1061) == metadata rows (1061): OK
+unique accessions: 1061 of 1061: OK
+headers not matching >ACCESSION.VERSION: 0 []
+hyalella length: min=322 median=627 max=1569; <600bp: 246
+hyalella records whose organism is not Hyalella*: 0 []
+titles suggesting non-cox1 / multi-gene / unverified records: 0
+outgroup records outside Amphipoda: 0 []
+hyalella records with country :  496 of 1021
+hyalella records with locality:  228 of 1021
+hyalella records with lat_lon :  202 of 1021
+hyalella records with isolate :  143 of 1021
+hyalella records with voucher :  632 of 1021
+hyalella records per country (top 25):
+       525  (none)
+       187  Peru
+       166  Canada
+        86  USA
+        22  Germany
+        18  Bolivia
+         5  Argentina
+         4  Switzerland
+         3  France
+         2  Ecuador
+         2  Chile
+         1  Australia
+hyalella South American records: 214 (Chile=2, Peru=187, Bolivia=18, Argentina=5, Brazil=0, Uruguay=0, Colombia=0, Ecuador=2, Venezuela=0, Paraguay=0)
+hyalella records per organism (top 30):
+       444  Hyalella azteca
+        85  Hyalella sp. A1
+        47  Hyalella sp. D1
+        35  Hyalella cuprea
+        30  Hyalella kochi
+        25  Hyalella montforti
+        16  Hyalella longipalma
+        14  Hyalella sp. E2
+         9  Hyalella sp. clade1 JL-2016
+         9  Hyalella sp. E1
+         9  Hyalella sp. A2
+         9  Hyalella sp. B1
+         8  Hyalella sandra
+         7  Hyalella sp. F1
+         7  Hyalella longipes
+         7  Hyalella nefrens
+         7  Hyalella curvispina
+         7  Hyalella tiwanaku
+         6  Hyalella sp. clade8 JL-2016
+         6  Hyalella hirsuta
+         5  Hyalella sp. Sullivan C MI
+         5  Hyalella sp. C1
+         5  Hyalella gonzalezi
+         5  Hyalella solida
+         5  Hyalella sp.
+         4  Hyalella muerta
+         4  Hyalella sp. BOLD:AAA1707
+         4  Hyalella neveulemairei
+         4  Hyalella sp. O VI-2023a
+         3  Hyalella montezuma
+            ... 162 more distinct values
+outgroup records (genus-list order):
+    relative AF520435.1     703bp  Hyalidae           Hyale nilssoni                       
+    relative EF989709.1     815bp  Hyalidae           Parhyale hawaiensis                  
+    relative KM611619.1     658bp  Hyalidae           Apohyale pugettensis                 Canada
+    relative OP933756.1     632bp  Hyalidae           Ptilohyale littoralis                
+    relative JX545472.1     710bp  Hyalidae           Protohyale frequens                  USA
+    relative OP933755.1     632bp  Hyalidae           Serejohyale youngi                   
+    relative OQ512243.1     606bp  Talitridae         Platorchestia joi                    
+    relative AY152751.1     637bp  Talitridae         Orchestia uhleri                     
+    relative KF369187.1     658bp  Talitridae         Talitrus saltator                    Portugal
+    relative PV991283.1     636bp  Talitridae         Talorchestia martensii               
+    relative JN009894.1    1433bp  Chiltoniidae       Austrochiltonia australis            
+    relative JX545449.1     710bp  Dogielinotidae     Allorchestes angusta                 USA
+    relative HQ945468.1     660bp  Hyalidae           Parallorchestes cf. cowani DQCS148-10 Canada
+    relative MK721831.1     628bp  Talitridae         Cryptorchestia garbinii              Poland
+    relative KX812472.1     658bp  Talitridae         Bellorchestia pravidactyla           
+    relative KM611560.1     658bp  Talitridae         Megalorchestia californiana          Canada
+    relative FJ581464.1     658bp  Talitridae         Americorchestia longicornis          Canada
+    relative MG655917.1     623bp  Talitridae         Sardorchestia pelecaniformis         
+    relative KT208744.1     658bp  Talitridae         Deshayesorchestia deshayesii         North Sea
+    relative MG655918.1     623bp  Talitridae         Britorchestia ugolinii               
+    relative HQ679919.1     582bp  Talitridae         Macarorchestia remyi                 
+    relative OQ512531.1     606bp  Arcitalitridae     Arcitalitrus sylvaticus              
+    relative AB741765.1     658bp  Talitridae         Talitroides alluaudi                 
+    relative KT958045.1    1198bp  Chiltoniidae       Phreatochiltonia anophthalma         Australia
+    distant  QB095133.1     635bp  Gammaridae         Gammarus lacustris                   Kazakhstan
+    distant  MW324680.1     683bp  Gammaridae         Echinogammarus stoerensis            
+    distant  PZ830451.1     658bp  Niphargidae        Niphargus boulangei                  Luxembourg
+    distant  LC671965.1     647bp  Crangonyctidae     Crangonyx floridanus                 Japan
+    distant  PZ177596.1     636bp  Eulimnogammaridae  Eulimnogammarus vittatus             Russia
+    distant  PP390979.1     618bp  Gammaridae         Dikerogammarus villosus              Poland
+    distant  OP466463.1     659bp  Pontogammaridae    Pontogammarus robustoides            Kazakhstan
+    distant  KT208717.1     658bp  Corophiidae        Corophium volutator                  North Sea
+    distant  KM068102.1     630bp  Pontoporeiidae     Monoporeia affinis                   Sweden
+    distant  OQ323214.1     658bp  Caprellidae        Caprella scaura                      USA
+    distant  MT518133.1     657bp  Ischyroceridae     Jassa slatteryi                      Japan
+    distant  HQ987379.1     657bp  Ampithoidae        Ampithoe rubricata                   Russia
+    distant  LC637608.1     658bp  Melitidae          Melita miyakoensis                   Japan
+    distant  KF808158.1     653bp  Pontoporeiidae     Bathyporeia tenuipes                 Spain
+    distant  HM380165.1     638bp  Gammaridae         Gammaracanthus loricatus             Canada
+    distant  OR198439.1     623bp  Pallaseidae        Pallaseopsis quadrispinosa           Finland
+outgroup records <600bp: 1
+
+wrote <project>/work/01_download/01_download_hyalella_cox1.fasta (1021 records)
+wrote <project>/work/01_download/01_download_outgroup_cox1.fasta (40 records)
+wrote <project>/work/01_download/01_download_public_metadata.tsv (1061 rows)
+E-utilities requests: 84; python wall time: 46.4s
+
+normalizing fasta (single-line, uppercase)
+  1021 records  <project>/work/01_download/01_download_hyalella_cox1.fasta
+  40 records  <project>/work/01_download/01_download_outgroup_cox1.fasta
+  1061 rows     <project>/work/01_download/01_download_public_metadata.tsv
+=== done in 47s ===

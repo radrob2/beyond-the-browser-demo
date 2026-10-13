@@ -1,0 +1,27 @@
+AUDIT2 START 2026-10-02T14:42:14+02:00
+Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: < /dev/null to skip, or wait longer.
+I've written `share/audit.md` and `share/audit.html`, and the HTML page is open in your browser. I didn't fix or re-run anything in the project, and `summary.html` is untouched.
+
+**Verdict:** the report's main conclusion holds up. 18 PCR samples belong to the unnamed high-Andean *H.* sp. O lineage (known from Argentina, Chile and Peru). 3 sit with the Lake Titicaca species flock. 19 sequences (all 10 genome-derived and 9 PCR) match North American lineages. Of the report's 43 claims, 6 are contradicted, 6 are misleading or weak, 30 are correct, and 1 I could not check. Six items need a domain expert.
+
+**The three most serious problems:**
+1. **The QC reference sequence is in the outputs.** The report says it is "in no output". Checked by sequence content, it is identical over all 610 bases to GenBank PX696973.1, an *H. azteca* lab culture from Lyon. A BOLD copy of that record (GBAAX85597-26) went through QC into the alignment, the tree and the PDF figure. It is also the nearest relative of samples crsp (99.2 %) and easy (98.3 %), which is a direct lead for the contamination question.
+2. **The tree figure shows support values on the wrong branches.** The plotting script's re-rooting moves the labels on 20 of 233 nodes, and 10 of the "strong support" dots are wrong. The report's "81–95 %" for the genome-derived groups comes from those shifted labels; the real values are 74 % and 59 %.
+3. **Some public records are counted twice.** 139 of the 2,088 records described as "BOLD only, not in GenBank" are BOLD copies of GenBank records, and 132 have exactly the same sequence. This inflates the record counts and the "equally close" counts in the table.
+
+**Other issues, all in `audit.md`:**
+- The four samples matched to a Nevada thermal-spring species are just as close to *H. azteca* records that have no locality. The table showing Nevada comes down to how ties were sorted.
+- The genome samples' "eastern North America" comes from a paper title, not the records. Their database groupings also look like wild populations rather than the standard lab strain.
+- tarn's "Titicaca" best hit carries the same site code (3TK10) as Peruvian records inside the sp. O group, so it is probably the same population.
+- Smaller errors: the "1,949 public sequences" figure is wrong (1,899 unique; the search actually used 3,043). A second sample, fern, is also closest to the Río Salvador record, not only biri. The four borderline samples contradict the report's own 0–2 % within-species rule.
+- The 70 % identity filter lets all 10 non-*Hyalella* outgroups through and counts ambiguous bases (N) as matches.
+
+**What I confirmed:** I re-ran the nearest-relative search without the 25-hit cap and got all 40 identities and tie counts exactly. A BLAST cross-check agrees on the lineage for 38 of 40 samples. None of the 66 sequences that QC dropped would have been a closer relative. The QC, tree-set and alignment counts all match. Support for the sp. O, Nevada, Alberta, French and Titicaca groups matches when recomputed directly from the tree file.
+
+**Not checked:**
+- I could not test the claim that an unconstrained tree pulls outgroups into *Hyalella*, because no unconstrained run was kept.
+- I didn't re-run MAFFT or IQ-TREE.
+- I didn't check that the HTML page fits one screen per section at projector size, because the browser tool wasn't permitted. Each section is sized to the window, but please glance at it before projecting.
+
+Temporary sequence copies I made outside the project during the audit have been deleted.
+AUDIT2 END 2026-10-02T14:54:01+02:00 exit=0

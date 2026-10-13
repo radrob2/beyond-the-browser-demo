@@ -1,0 +1,1102 @@
+id	source	length	ref_identity	strand	status	duplicate_of
+AF520434.1	public	686	78.2	+	kept	
+AJ968915.1	public	626	83.0	+	kept	
+AJ968916.1	public	626	79.8	+	kept	
+AJ968917.1	public	626	82.8	+	kept	
+AJ968918.1	public	626	79.8	+	dropped_duplicate	AJ968916.1
+AY152752.1	public	637	80.3	+	kept	
+AY152753.1	public	637	80.0	+	kept	
+AY152754.1	public	637	80.0	+	kept	
+AY152755.1	public	637	79.8	+	kept	
+AY152756.1	public	637	80.2	+	kept	
+AY152757.1	public	637	79.0	+	kept	
+AY152758.1	public	637	79.0	+	kept	
+AY152759.1	public	617	79.0	+	kept	
+AY152760.1	public	617	79.3	+	kept	
+AY152761.1	public	637	78.5	+	kept	
+AY152762.1	public	637	80.5	+	kept	
+AY152763.1	public	617	80.2	+	kept	
+AY152764.1	public	617	80.8	+	kept	
+AY152765.1	public	627	80.7	+	kept	
+AY152766.1	public	617	80.2	+	kept	
+AY152767.1	public	637	81.6	+	kept	
+AY152768.1	public	637	83.9	+	kept	
+AY152769.1	public	629	83.8	+	kept	
+AY152770.1	public	637	81.1	+	kept	
+AY152771.1	public	637	81.8	+	kept	
+AY152772.1	public	637	81.5	+	kept	
+AY152773.1	public	637	81.5	+	kept	
+AY152774.1	public	637	81.3	+	kept	
+AY152775.1	public	637	81.1	+	kept	
+AY152776.1	public	625	77.0	+	kept	
+AY152777.1	public	637	77.0	+	kept	
+AY152778.1	public	637	77.2	+	kept	
+AY152779.1	public	637	77.4	+	kept	
+AY152780.1	public	637	77.0	+	kept	
+AY152781.1	public	637	77.2	+	kept	
+AY152782.1	public	637	77.2	+	kept	
+AY152783.1	public	637	76.4	+	kept	
+AY152784.1	public	637	77.0	+	kept	
+AY152785.1	public	637	77.0	+	kept	
+AY152786.1	public	637	76.7	+	kept	
+AY152787.1	public	637	76.7	+	kept	
+AY152788.1	public	637	76.7	+	kept	
+AY152789.1	public	637	76.6	+	kept	
+AY152790.1	public	637	76.7	+	kept	
+AY152791.1	public	637	80.2	+	kept	
+AY152792.1	public	637	78.9	+	kept	
+AY152793.1	public	637	78.5	+	kept	
+AY152794.1	public	637	78.7	+	kept	
+AY152795.1	public	637	76.9	+	kept	
+AY152796.1	public	637	77.0	+	kept	
+AY152797.1	public	637	81.5	+	kept	
+AY152798.1	public	637	79.8	+	kept	
+AY152799.1	public	637	80.0	+	kept	
+AY152800.1	public	637	80.0	+	kept	
+AY152801.1	public	637	80.0	+	kept	
+AY152802.1	public	637	80.0	+	kept	
+AY152803.1	public	637	80.2	+	kept	
+AY152804.1	public	637	80.0	+	kept	
+AY152805.1	public	637	80.5	+	kept	
+AY152806.1	public	637	80.5	+	kept	
+AY152807.1	public	637	80.5	+	kept	
+DQ464599.1	public	637	78.2	+	kept	
+DQ464600.1	public	637	77.4	+	kept	
+DQ464601.1	public	637	77.5	+	kept	
+DQ464602.1	public	637	77.4	+	kept	
+DQ464603.1	public	637	77.5	+	kept	
+DQ464604.1	public	637	80.3	+	kept	
+DQ464605.1	public	637	80.0	+	kept	
+DQ464606.1	public	637	80.2	+	kept	
+DQ464607.1	public	637	77.7	+	kept	
+DQ464608.1	public	637	77.5	+	kept	
+DQ464609.1	public	637	77.7	+	kept	
+DQ464610.1	public	637	85.1	+	kept	
+DQ464611.1	public	637	84.9	+	kept	
+DQ464612.1	public	637	84.8	+	kept	
+DQ464613.1	public	637	84.8	+	kept	
+DQ464614.1	public	637	84.4	+	kept	
+DQ464615.1	public	637	84.6	+	kept	
+DQ464616.1	public	637	84.8	+	kept	
+DQ464617.1	public	637	84.8	+	kept	
+DQ464618.1	public	637	84.4	+	kept	
+DQ464619.1	public	637	84.4	+	kept	
+DQ464620.1	public	637	84.4	+	kept	
+DQ464621.1	public	637	83.3	+	kept	
+DQ464622.1	public	637	83.3	+	kept	
+DQ464623.1	public	637	83.3	+	kept	
+DQ464624.1	public	637	83.8	+	kept	
+DQ464625.1	public	637	83.4	+	kept	
+DQ464626.1	public	637	83.6	+	kept	
+DQ464627.1	public	637	83.4	+	kept	
+DQ464628.1	public	637	83.3	+	kept	
+DQ464629.1	public	637	83.9	+	kept	
+DQ464630.1	public	637	84.3	+	kept	
+DQ464631.1	public	637	84.3	+	kept	
+DQ464632.1	public	637	84.1	+	kept	
+DQ464633.1	public	637	84.3	+	kept	
+DQ464634.1	public	637	84.4	+	kept	
+DQ464635.1	public	637	84.3	+	kept	
+DQ464636.1	public	637	84.3	+	kept	
+DQ464637.1	public	637	84.3	+	kept	
+DQ464638.1	public	637	84.1	+	kept	
+DQ464639.1	public	637	86.4	+	kept	
+DQ464640.1	public	637	86.6	+	kept	
+DQ464641.1	public	637	86.2	+	kept	
+DQ464642.1	public	637	86.2	+	kept	
+DQ464643.1	public	637	83.6	+	kept	
+DQ464644.1	public	637	86.1	+	kept	
+DQ464645.1	public	637	85.9	+	kept	
+DQ464646.1	public	637	85.7	+	kept	
+DQ464647.1	public	637	84.8	+	kept	
+DQ464648.1	public	637	84.9	+	kept	
+DQ464649.1	public	637	85.1	+	kept	
+DQ464650.1	public	637	85.1	+	kept	
+DQ464651.1	public	637	86.7	+	kept	
+DQ464652.1	public	637	86.6	+	kept	
+DQ464653.1	public	637	86.7	+	kept	
+DQ464654.1	public	637	86.6	+	kept	
+DQ464655.1	public	637	86.4	+	kept	
+DQ464656.1	public	637	80.7	+	kept	
+DQ464657.1	public	637	80.5	+	kept	
+DQ464658.1	public	637	80.8	+	kept	
+DQ464659.1	public	637	80.3	+	kept	
+DQ464660.1	public	637	78.7	+	dropped_duplicate	AY152794.1
+DQ464661.1	public	637	77.7	+	kept	
+DQ464662.1	public	637	78.4	+	kept	
+DQ464663.1	public	637	78.4	+	kept	
+DQ464664.1	public	637	78.2	+	kept	
+DQ464665.1	public	637	78.4	+	kept	
+DQ464666.1	public	637	81.0	+	kept	
+DQ464667.1	public	637	80.8	+	kept	
+DQ464668.1	public	626	80.8	+	kept	
+DQ464669.1	public	637	79.8	+	kept	
+DQ464670.1	public	637	79.7	+	kept	
+DQ464671.1	public	637	78.9	+	kept	
+DQ464672.1	public	637	79.2	+	kept	
+DQ464673.1	public	637	79.0	+	kept	
+DQ464674.1	public	637	79.0	+	kept	
+DQ464675.1	public	637	76.2	+	kept	
+DQ464676.1	public	637	76.4	+	kept	
+DQ464677.1	public	637	75.9	+	kept	
+DQ464678.1	public	637	76.1	+	kept	
+DQ464679.1	public	637	76.9	+	kept	
+DQ464680.1	public	637	76.9	+	kept	
+DQ464681.1	public	637	77.5	+	kept	
+DQ464682.1	public	637	77.4	+	kept	
+DQ464683.1	public	637	78.2	+	kept	
+DQ464684.1	public	637	78.4	+	kept	
+DQ464685.1	public	637	78.0	+	kept	
+DQ464686.1	public	637	78.2	+	kept	
+DQ464687.1	public	637	77.9	+	kept	
+DQ464688.1	public	637	78.0	+	kept	
+DQ464689.1	public	637	78.2	+	kept	
+DQ464690.1	public	637	79.7	+	kept	
+DQ464691.1	public	637	79.5	+	kept	
+DQ464692.1	public	637	79.3	+	kept	
+DQ464693.1	public	637	79.5	+	kept	
+DQ464694.1	public	637	77.7	+	kept	
+DQ464695.1	public	637	77.5	+	kept	
+DQ464696.1	public	637	77.4	+	kept	
+DQ464697.1	public	637	77.5	+	kept	
+DQ464698.1	public	637	77.9	+	kept	
+DQ464699.1	public	637	77.7	+	kept	
+DQ464700.1	public	637	79.3	+	kept	
+DQ464701.1	public	637	78.9	+	kept	
+DQ464702.1	public	637	78.9	+	kept	
+DQ464703.1	public	637	79.3	+	kept	
+DQ464704.1	public	637	78.7	+	kept	
+DQ464705.1	public	637	78.9	+	kept	
+DQ464706.1	public	637	78.9	+	kept	
+DQ464707.1	public	637	78.9	+	kept	
+DQ464708.1	public	637	78.9	+	kept	
+DQ464709.1	public	637	79.7	+	kept	
+DQ464710.1	public	637	79.5	+	kept	
+DQ464711.1	public	637	79.3	+	kept	
+DQ464712.1	public	637	80.0	+	kept	
+DQ464713.1	public	637	79.8	+	kept	
+DQ464714.1	public	637	79.7	+	kept	
+DQ464715.1	public	637	79.5	+	kept	
+DQ464716.1	public	637	79.3	+	kept	
+DQ464717.1	public	637	79.5	+	kept	
+DQ464718.1	public	637	79.5	+	kept	
+DQ464719.1	public	637	79.3	+	kept	
+DQ464720.1	public	627	77.9	+	kept	
+DQ464721.1	public	627	78.0	+	kept	
+DQ464722.1	public	627	78.2	+	kept	
+DQ464723.1	public	627	78.0	+	kept	
+DQ464724.1	public	627	78.2	+	kept	
+DQ464725.1	public	627	78.0	+	kept	
+DQ464726.1	public	627	78.2	+	kept	
+DQ464727.1	public	627	78.2	+	kept	
+EU621726.1	public	1148	80.6	+	kept	
+EU621727.1	public	1191	97.2	+	kept	
+EU621728.1	public	1191	98.0	+	kept	
+EU621729.1	public	808	85.9	+	kept	
+EU621730.1	public	586	83.5	+	kept	
+EU621731.1	public	751	85.4	+	kept	
+EU621732.1	public	592	83.5	+	kept	
+EU621733.1	public	532	79.2	+	kept	
+EU621734.1	public	735	82.0	+	kept	
+EU621735.1	public	711	80.6	+	kept	
+EU621736.1	public	597	78.8	+	kept	
+EU621737.1	public	707	81.4	+	kept	
+EU621738.1	public	588	79.6	+	kept	
+EU621739.1	public	762	81.9	+	kept	
+EU621740.1	public	618	79.9	+	kept	
+EU621741.1	public	772	84.5	+	kept	
+EU621742.1	public	531	83.6	+	kept	
+EU621743.1	public	775	84.3	+	kept	
+EU621744.1	public	580	82.9	+	kept	
+EU621745.1	public	596	80.9	+	kept	
+EU621746.1	public	732	81.1	+	kept	
+EU621747.1	public	774	82.0	+	kept	
+EU621748.1	public	586	80.2	+	kept	
+EU621749.1	public	772	81.9	+	kept	
+EU621750.1	public	588	80.8	+	kept	
+EU621751.1	public	592	81.3	+	kept	
+EU621752.1	public	772	81.4	+	kept	
+EU621753.1	public	719	79.8	+	kept	
+EU621754.1	public	592	81.3	+	dropped_duplicate	EU621751.1
+EU621755.1	public	589	79.9	+	kept	
+EU621756.1	public	808	83.2	+	kept	
+EU621757.1	public	809	81.7	+	kept	
+EU621758.1	public	589	80.4	+	kept	
+EU621759.1	public	810	81.4	+	kept	
+EU621760.1	public	589	80.2	+	kept	
+EU621761.1	public	808	82.8	+	kept	
+EU621762.1	public	575	80.9	+	kept	
+FJ375302.1	public	620	82.1	-	kept	
+GU066812.1	public	658	77.4	+	kept	
+GU679665.1	public	658	78.9	+	kept	
+GU679667.1	public	658	78.5	+	kept	
+HM130060.1	public	366	80.9	+	kept	
+HM130061.1	public	366	80.6	+	kept	
+HM130062.1	public	366	79.2	+	kept	
+HM130063.1	public	366	79.2	+	kept	
+HM130064.1	public	366	78.7	+	kept	
+HM130065.1	public	366	80.3	+	kept	
+HM130066.1	public	366	78.4	+	kept	
+HM130067.1	public	366	78.1	+	kept	
+HM130068.1	public	366	79.0	+	kept	
+HM130069.1	public	366	79.5	+	kept	
+HM130070.1	public	366	79.2	+	kept	
+HM130071.1	public	366	79.0	+	kept	
+HM130072.1	public	366	77.9	+	kept	
+HM130073.1	public	366	78.7	+	kept	
+HM130074.1	public	366	79.0	+	kept	
+HM130075.1	public	366	77.0	+	kept	
+HM130076.1	public	366	78.7	+	kept	
+HM130077.1	public	366	78.7	+	kept	
+HM130078.1	public	366	77.3	+	kept	
+HM130079.1	public	366	77.3	+	kept	
+HM130080.1	public	366	77.9	+	kept	
+HM130081.1	public	366	77.6	+	kept	
+HM130082.1	public	366	77.9	+	kept	
+HM130083.1	public	366	77.3	+	kept	
+HM130084.1	public	366	77.0	+	kept	
+HM130085.1	public	366	77.3	+	kept	
+HM130086.1	public	366	77.3	+	kept	
+HM130087.1	public	366	77.3	+	kept	
+HM130088.1	public	366	77.3	+	kept	
+HM130089.1	public	366	77.3	+	kept	
+HM130090.1	public	366	77.9	+	kept	
+HM130091.1	public	366	77.6	+	kept	
+HM137984.1	public	658	80.0	+	kept	
+HM137985.1	public	658	79.2	+	kept	
+HM137986.1	public	651	80.0	+	kept	
+HM137987.1	public	650	79.2	+	kept	
+HM137988.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM137989.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM137990.1	public	651	79.2	+	kept	
+HM137991.1	public	657	80.0	+	kept	
+HM137992.1	public	658	79.0	+	kept	
+HM137993.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM137994.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM137995.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM137996.1	public	657	79.2	+	kept	
+HM137997.1	public	657	79.0	+	kept	
+HM137998.1	public	652	79.2	+	kept	
+HM137999.1	public	658	80.0	+	dropped_duplicate	HM137984.1
+HM138000.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138001.1	public	641	79.9	+	kept	
+HM138002.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138003.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138004.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138005.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138006.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138007.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138008.1	public	654	79.2	+	kept	
+HM138009.1	public	658	79.0	+	dropped_duplicate	HM137992.1
+HM138010.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138011.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138012.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138013.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138014.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138015.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138016.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138017.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138018.1	public	658	79.0	+	dropped_duplicate	HM137992.1
+HM138019.1	public	658	80.0	+	dropped_duplicate	HM137984.1
+HM138020.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138021.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138022.1	public	658	80.0	+	dropped_duplicate	HM137984.1
+HM138023.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138024.1	public	658	79.0	+	dropped_duplicate	HM137992.1
+HM138025.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138026.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138027.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138028.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138029.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138030.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138031.1	public	658	79.2	+	dropped_duplicate	HM137985.1
+HM138032.1	public	658	80.0	+	dropped_duplicate	HM137984.1
+HM900376.1	public	658	83.9	+	kept	
+HM900377.1	public	617	84.2	+	kept	
+HQ946125.1	public	658	83.9	+	dropped_duplicate	HM900376.1
+HQ946126.1	public	645	83.6	+	kept	
+HQ946127.1	public	642	83.7	+	kept	
+HQ983131.1	public	593	83.7	+	kept	
+HQ983133.1	public	658	81.0	+	kept	
+HQ983134.1	public	658	70.8	+	kept	
+HQ983136.1	public	590	79.8	+	kept	
+HQ983137.1	public	549	80.5	+	kept	
+HQ983138.1	public	539	80.1	+	kept	
+HQ983139.1	public	606	80.3	+	kept	
+HQ983140.1	public	624	80.3	+	kept	
+JN161817.1	public	455	82.0	+	kept	
+JN161818.1	public	454	84.8	+	kept	
+JN161819.1	public	454	84.1	+	kept	
+JN161820.1	public	454	84.1	+	kept	
+JN161821.1	public	456	80.3	+	kept	
+JN886706.1	public	455	77.4	+	kept	
+JX446307.1	public	1569	98.9	+	kept	
+JX446308.1	public	1569	98.9	+	kept	
+JX446309.1	public	1569	99.0	+	kept	
+JX446310.1	public	1569	99.2	+	kept	
+JX446311.1	public	1569	99.3	+	kept	
+JX446312.1	public	1569	99.2	+	kept	
+JX446313.1	public	1569	99.2	+	kept	
+JX446314.1	public	1569	99.2	+	kept	
+JX446315.1	public	1569	99.8	+	kept	
+JX446316.1	public	1569	98.7	+	kept	
+JX446317.1	public	1569	98.2	+	kept	
+JX446318.1	public	1569	98.9	+	kept	
+JX446319.1	public	1569	81.1	+	kept	
+JX446320.1	public	1569	81.1	+	kept	
+JX446321.1	public	1569	81.1	+	kept	
+JX446322.1	public	1569	81.1	+	kept	
+JX446323.1	public	1569	81.1	+	kept	
+JX446324.1	public	1569	81.1	+	kept	
+JX446325.1	public	1569	81.1	+	kept	
+JX446326.1	public	1569	81.1	+	kept	
+JX446327.1	public	1569	81.1	+	kept	
+JX446328.1	public	1569	81.1	+	kept	
+JX446329.1	public	1569	81.1	+	kept	
+JX446330.1	public	1569	81.1	+	kept	
+JX446331.1	public	1569	81.3	+	kept	
+JX446332.1	public	1569	81.5	+	kept	
+JX446333.1	public	1569	81.5	+	kept	
+JX446334.1	public	1569	81.5	+	kept	
+JX446335.1	public	1569	81.5	+	kept	
+JX446336.1	public	1569	81.3	+	kept	
+JX446337.1	public	1560	81.0	+	kept	
+JX446338.1	public	1560	81.0	+	kept	
+JX446339.1	public	1569	80.2	+	kept	
+JX446340.1	public	1569	80.7	+	kept	
+JX446341.1	public	1569	80.5	+	kept	
+JX446342.1	public	1569	80.3	+	kept	
+JX446343.1	public	1569	80.3	+	kept	
+JX446344.1	public	1569	80.5	+	kept	
+JX446345.1	public	1569	80.5	+	kept	
+JX446346.1	public	1569	80.7	+	kept	
+JX446347.1	public	1569	80.5	+	kept	
+JX446348.1	public	1569	80.5	+	kept	
+JX446349.1	public	1569	80.3	+	kept	
+JX446350.1	public	1569	80.2	+	kept	
+JX446351.1	public	1569	81.0	+	kept	
+JX446352.1	public	1569	80.5	+	kept	
+JX446353.1	public	1569	80.3	+	kept	
+JX446354.1	public	1569	80.3	+	kept	
+JX446355.1	public	1560	79.3	+	kept	
+JX446356.1	public	1560	79.8	+	kept	
+JX446357.1	public	1560	79.8	+	kept	
+JX446358.1	public	1560	79.7	+	kept	
+JX446359.1	public	1560	79.8	+	kept	
+JX446360.1	public	1560	79.8	+	kept	
+JX446361.1	public	1560	80.0	+	kept	
+JX446362.1	public	1560	80.2	+	kept	
+JX446363.1	public	1560	79.8	+	kept	
+JX446364.1	public	1560	79.2	+	kept	
+JX446365.1	public	1569	78.9	+	kept	
+JX446366.1	public	1569	79.8	+	kept	
+JX446367.1	public	1569	83.6	+	kept	
+KF596727.1	public	695	82.8	+	kept	
+KF596728.1	public	695	82.6	+	kept	
+KF596729.1	public	695	83.0	+	kept	
+KF596730.1	public	695	98.9	+	kept	
+KF596731.1	public	695	98.9	+	dropped_duplicate	KF596730.1
+KF596732.1	public	695	98.9	+	dropped_duplicate	KF596730.1
+KF596733.1	public	695	85.9	+	kept	
+KF596734.1	public	695	85.1	+	kept	
+KF596735.1	public	695	85.1	+	dropped_duplicate	KF596734.1
+KF596736.1	public	695	82.1	+	kept	
+KF596737.1	public	695	81.8	+	kept	
+KF596738.1	public	695	81.8	+	dropped_duplicate	KF596737.1
+KF596739.1	public	695	85.4	+	kept	
+KF596740.1	public	695	85.4	+	dropped_duplicate	KF596739.1
+KF596741.1	public	695	85.6	+	kept	
+KF596742.1	public	695	85.4	+	dropped_duplicate	KF596739.1
+KF596743.1	public	695	85.4	+	dropped_duplicate	KF596739.1
+KF596744.1	public	695	85.4	+	dropped_duplicate	KF596739.1
+KF596745.1	public	695	85.4	+	dropped_duplicate	KF596739.1
+KF596746.1	public	695	85.6	+	kept	
+KF596747.1	public	695	82.6	+	kept	
+KF596748.1	public	695	98.9	+	dropped_duplicate	KF596730.1
+KF596749.1	public	695	98.9	+	dropped_duplicate	KF596730.1
+KF596750.1	public	695	98.9	+	dropped_duplicate	KF596730.1
+KF596751.1	public	695	98.9	+	kept	
+KF596752.1	public	695	98.9	+	kept	
+KM611482.1	public	407	81.5	+	kept	
+KM611490.1	public	658	78.5	+	kept	
+KM611509.1	public	658	80.3	+	kept	
+KM611517.1	public	658	78.7	+	kept	
+KM611538.1	public	544	79.4	+	kept	
+KM611548.1	public	658	80.0	+	kept	
+KM611552.1	public	658	78.5	+	dropped_duplicate	KM611490.1
+KM611555.1	public	658	79.2	+	kept	
+KM611571.1	public	658	78.5	+	kept	
+KM611579.1	public	658	79.2	+	dropped_duplicate	KM611555.1
+KM611581.1	public	658	78.7	+	kept	
+KM611582.1	public	658	77.0	+	kept	
+KM611587.1	public	658	78.4	+	kept	
+KM611607.1	public	658	80.0	+	dropped_duplicate	KM611548.1
+KM611618.1	public	658	78.5	+	kept	
+KM611625.1	public	658	80.0	+	dropped_duplicate	KM611548.1
+KM611632.1	public	655	78.4	+	kept	
+KM611635.1	public	658	80.0	+	kept	
+KM611646.1	public	658	79.8	+	kept	
+KM611658.1	public	658	77.0	+	kept	
+KM611659.1	public	658	78.7	+	kept	
+KM611671.1	public	626	77.0	+	kept	
+KM611684.1	public	658	77.4	+	kept	
+KM611707.1	public	658	78.5	+	kept	
+KM611710.1	public	658	79.2	+	dropped_duplicate	KM611555.1
+KM611712.1	public	658	78.4	+	kept	
+KM611758.1	public	658	79.8	+	dropped_duplicate	KM611646.1
+KM611769.1	public	658	78.7	+	dropped_duplicate	KM611581.1
+KM611781.1	public	658	80.0	+	dropped_duplicate	KM611548.1
+KM611788.1	public	658	80.0	+	dropped_duplicate	KM611548.1
+KM611789.1	public	655	80.2	+	kept	
+KM611795.1	public	658	80.2	+	kept	
+KT705464.1	public	658	81.3	+	kept	
+KT705666.1	public	658	81.0	+	kept	
+KT706067.1	public	658	81.0	+	dropped_duplicate	KT705666.1
+KT706149.1	public	648	80.0	+	kept	
+KT706883.1	public	658	80.2	+	kept	
+KT706889.1	public	614	79.9	+	kept	
+KT706961.1	public	658	81.5	+	kept	
+KT707519.1	public	627	80.1	+	kept	
+KT707605.1	public	658	81.3	+	kept	
+KT707620.1	public	658	80.3	+	kept	
+KT707622.1	public	658	81.3	+	dropped_duplicate	KT707605.1
+KT707873.1	public	658	80.7	+	kept	
+KT708136.1	public	658	81.0	+	dropped_duplicate	KT705666.1
+KT708374.1	public	658	80.3	+	dropped_duplicate	KT707620.1
+KT708538.1	public	658	81.0	+	kept	
+KT708682.1	public	658	80.0	+	kept	
+KU756610.1	public	637	80.0	+	kept	
+KU756611.1	public	637	79.2	+	kept	
+KU756612.1	public	637	79.2	+	kept	
+KU756613.1	public	637	79.2	+	kept	
+KU756614.1	public	637	79.0	+	kept	
+KU756615.1	public	637	79.0	+	kept	
+KU756616.1	public	637	79.2	+	kept	
+KU756617.1	public	637	79.2	+	kept	
+KU756618.1	public	637	79.0	+	kept	
+KU756619.1	public	637	98.9	+	kept	
+KU756620.1	public	637	98.9	+	kept	
+KU756621.1	public	637	98.9	+	kept	
+KU756622.1	public	637	98.9	+	kept	
+KU756623.1	public	637	98.7	+	kept	
+KU756624.1	public	637	98.9	+	kept	
+MF742813.1	public	573	78.4	+	kept	
+MF746070.1	public	563	78.5	+	kept	
+MF748225.1	public	658	78.7	+	kept	
+MF990277.1	public	500	81.2	+	kept	
+MF990278.1	public	500	88.8	+	kept	
+MF990279.1	public	500	88.8	+	kept	
+MF990280.1	public	486	79.6	+	kept	
+MF990281.1	public	500	80.4	+	kept	
+MF990282.1	public	500	98.2	+	kept	
+MF990283.1	public	500	81.8	+	kept	
+MG311096.1	public	419	80.4	+	kept	
+MG311370.1	public	652	78.7	+	kept	
+MG311511.1	public	652	78.9	+	kept	
+MG311613.1	public	658	78.9	+	kept	
+MG311830.1	public	652	78.5	+	kept	
+MG311917.1	public	652	78.9	+	kept	
+MG312714.1	public	658	78.9	+	dropped_duplicate	GU679665.1
+MG312870.1	public	658	77.4	+	kept	
+MG312924.1	public	641	79.9	+	kept	
+MG313472.1	public	627	78.9	+	kept	
+MG314946.1	public	658	80.5	+	kept	
+MG315492.1	public	658	80.0	+	kept	
+MG315836.1	public	658	78.9	+	kept	
+MG316363.1	public	658	78.5	+	dropped_duplicate	GU679667.1
+MG316532.1	public	658	79.7	+	kept	
+MG317863.1	public	658	80.5	+	kept	
+MG318070.1	public	446	79.1	+	kept	
+MG318208.1	public	628	80.4	+	kept	
+MG318478.1	public	658	78.9	+	dropped_duplicate	GU679665.1
+MG318772.1	public	658	79.2	+	kept	
+MG318896.1	public	658	78.9	+	dropped_duplicate	GU679665.1
+MG319110.1	public	603	79.0	+	kept	
+MG319235.1	public	590	80.6	+	kept	
+MG319453.1	public	642	80.6	+	kept	
+MG319573.1	public	630	80.3	+	kept	
+MG319944.1	public	658	80.2	+	kept	
+MG320345.1	public	455	80.8	+	kept	
+MG320451.1	public	564	80.9	+	kept	
+MG320513.1	public	658	78.5	+	dropped_duplicate	GU679667.1
+MG320763.1	public	658	80.5	+	dropped_duplicate	MG317863.1
+MG320881.1	public	658	78.9	+	dropped_duplicate	GU679665.1
+MG448749.1	public	658	81.1	+	kept	
+MG448956.1	public	656	80.5	+	kept	
+MG449644.1	public	658	80.5	+	dropped_duplicate	MG317863.1
+MG449825.1	public	658	81.3	+	kept	
+MG449926.1	public	658	81.1	+	dropped_duplicate	MG448749.1
+MG450277.1	public	658	80.3	+	kept	
+MG488281.1	public	670	77.4	+	kept	
+MG488282.1	public	670	77.4	+	dropped_duplicate	MG488281.1
+MG488283.1	public	670	77.4	+	dropped_duplicate	MG488281.1
+MG488284.1	public	670	82.5	+	kept	
+MG488285.1	public	670	82.5	+	dropped_duplicate	MG488284.1
+MG488286.1	public	670	82.5	+	dropped_duplicate	MG488284.1
+MG488287.1	public	670	82.3	+	kept	
+MG488288.1	public	670	82.5	+	dropped_duplicate	MG488284.1
+MG510596.1	public	401	77.1	+	kept	
+MG512186.1	public	322	80.8	+	kept	
+MH242801.1	public	637	78.4	+	kept	
+MK903537.1	public	617	77.3	+	kept	
+MN582154.1	public	627	79.8	+	kept	
+MN582155.1	public	567	80.6	+	kept	
+MN582156.1	public	594	80.0	+	kept	
+MN582157.1	public	594	80.0	+	kept	
+MN582158.1	public	498	80.1	+	kept	
+MN582159.1	public	504	80.2	+	kept	
+MN582160.1	public	579	80.5	+	kept	
+MN582161.1	public	627	80.0	+	kept	
+MN582162.1	public	606	80.2	+	kept	
+MN582163.1	public	555	80.7	+	kept	
+MN582164.1	public	561	81.0	+	kept	
+MN582165.1	public	501	79.8	+	kept	
+MN582166.1	public	594	80.0	+	kept	
+MN582167.1	public	585	79.4	+	kept	
+MN582168.1	public	627	79.8	+	kept	
+MN582169.1	public	609	80.3	+	kept	
+MN582170.1	public	567	80.8	+	kept	
+MN582171.1	public	609	80.2	+	kept	
+MN582172.1	public	609	80.2	+	dropped_duplicate	MN582171.1
+MN582173.1	public	594	80.2	+	kept	
+MN582174.1	public	594	80.3	+	kept	
+MN582175.1	public	564	81.1	+	kept	
+MN582176.1	public	450	80.9	+	kept	
+MN582177.1	public	522	79.9	+	kept	
+MN582178.1	public	594	80.0	+	kept	
+MN582179.1	public	627	80.3	+	kept	
+MN582180.1	public	615	79.7	+	kept	
+MN582181.1	public	594	80.0	+	kept	
+MN582182.1	public	588	80.3	+	kept	
+MN582183.1	public	588	80.5	+	kept	
+MN582184.1	public	609	79.7	+	kept	
+MN582185.1	public	567	81.7	+	kept	
+MN582186.1	public	606	81.1	+	kept	
+MN582187.1	public	594	81.0	+	kept	
+MN582188.1	public	495	79.8	+	kept	
+MN582189.1	public	588	80.5	+	kept	
+MN582190.1	public	627	80.0	+	kept	
+MN582191.1	public	582	80.1	+	kept	
+MN582192.1	public	627	80.3	+	kept	
+MN582193.1	public	594	80.8	+	kept	
+MN582194.1	public	594	80.8	+	dropped_duplicate	MN582193.1
+MN582195.1	public	594	80.1	+	kept	
+MN582196.1	public	627	79.7	+	kept	
+MN582197.1	public	558	80.3	+	kept	
+MN582198.1	public	450	80.9	+	kept	
+MN582199.1	public	588	79.0	+	kept	
+MN582200.1	public	594	80.0	+	kept	
+MN582201.1	public	627	79.7	+	kept	
+MN582202.1	public	519	79.2	+	kept	
+MN582203.1	public	627	78.0	+	kept	
+MN582204.1	public	516	78.7	+	kept	
+MN582205.1	public	609	78.2	+	kept	
+MN582206.1	public	549	79.0	+	kept	
+MN582207.1	public	537	78.9	+	kept	
+MN582208.1	public	609	78.8	+	kept	
+MN582209.1	public	612	78.6	+	kept	
+MN582210.1	public	612	78.6	+	dropped_duplicate	MN582209.1
+MN582211.1	public	594	78.8	+	kept	
+MN582212.1	public	594	78.8	+	kept	
+MN582213.1	public	594	78.8	+	kept	
+MN582214.1	public	582	78.9	+	kept	
+MN582215.1	public	609	79.0	+	kept	
+MN582216.1	public	627	78.7	+	kept	
+MN582217.1	public	558	79.4	+	kept	
+MN582218.1	public	513	78.6	+	kept	
+MN582219.1	public	594	78.6	+	kept	
+MN582220.1	public	594	78.8	+	kept	
+MN582221.1	public	594	80.0	+	kept	
+MN582222.1	public	567	79.4	+	kept	
+MN582223.1	public	432	78.7	+	kept	
+MN582224.1	public	594	78.8	+	kept	
+MN582225.1	public	450	78.4	+	kept	
+MN582226.1	public	594	79.5	+	kept	
+MN582227.1	public	462	77.7	+	kept	
+MN582228.1	public	627	79.0	+	kept	
+MN582229.1	public	627	79.0	+	dropped_duplicate	MN582228.1
+MN582230.1	public	594	79.5	+	kept	
+MN582231.1	public	594	79.3	+	kept	
+MN582232.1	public	594	79.5	+	kept	
+MN582233.1	public	594	78.6	+	kept	
+MN582234.1	public	576	79.5	+	kept	
+MN582235.1	public	627	78.2	+	kept	
+MN582236.1	public	627	78.2	+	dropped_duplicate	MN582235.1
+MN582237.1	public	627	76.9	+	kept	
+MN582238.1	public	597	77.4	+	kept	
+MN582239.1	public	594	77.3	+	kept	
+MN582240.1	public	594	77.1	+	kept	
+MN582241.1	public	369	77.0	+	kept	
+MN582242.1	public	627	76.9	+	kept	
+MN582243.1	public	567	78.0	+	kept	
+MN582244.1	public	594	77.3	+	kept	
+MN582245.1	public	561	77.9	+	kept	
+MN582246.1	public	594	77.3	+	dropped_duplicate	MN582244.1
+MN582247.1	public	594	77.3	+	kept	
+MN582248.1	public	594	77.3	+	dropped_duplicate	MN582247.1
+MN582249.1	public	606	77.2	+	kept	
+MN582250.1	public	594	77.3	+	dropped_duplicate	MN582247.1
+MN582251.1	public	528	77.8	+	kept	
+MN582252.1	public	594	77.3	+	dropped_duplicate	MN582247.1
+MN582253.1	public	594	77.3	+	dropped_duplicate	MN582247.1
+MN582254.1	public	525	77.5	+	kept	
+MN582255.1	public	594	77.1	+	kept	
+MN582256.1	public	465	77.0	+	kept	
+MN582257.1	public	405	77.5	+	kept	
+MN582258.1	public	594	77.1	+	kept	
+MN582259.1	public	627	76.9	+	kept	
+MN582260.1	public	453	76.4	+	kept	
+MN582261.1	public	594	77.5	+	kept	
+MN582262.1	public	627	77.0	+	kept	
+MN582263.1	public	594	77.5	+	kept	
+MN582264.1	public	588	77.4	+	kept	
+MN582265.1	public	561	77.6	+	kept	
+MN582266.1	public	609	77.5	+	kept	
+MN582267.1	public	564	78.2	+	kept	
+MN582268.1	public	588	76.9	+	kept	
+MN582269.1	public	594	76.9	+	kept	
+MN582270.1	public	594	76.9	+	kept	
+MN582271.1	public	552	77.5	+	kept	
+MN582272.1	public	594	76.9	+	kept	
+MN582273.1	public	594	77.5	+	kept	
+MN582274.1	public	567	78.0	+	kept	
+MN582275.1	public	576	77.3	+	kept	
+MN582276.1	public	420	77.9	+	kept	
+MN582277.1	public	594	76.9	+	kept	
+MN582278.1	public	594	76.8	+	kept	
+MN582279.1	public	546	76.9	+	kept	
+MN582280.1	public	591	75.9	+	kept	
+MN582281.1	public	594	78.3	+	kept	
+MN582282.1	public	582	78.4	+	kept	
+MN582283.1	public	594	78.3	+	kept	
+MN582284.1	public	549	76.9	+	kept	
+MN582285.1	public	594	77.6	+	kept	
+MN582286.1	public	588	77.7	+	kept	
+MN582287.1	public	516	78.3	+	kept	
+MN582288.1	public	561	78.1	+	kept	
+MN582289.1	public	561	78.6	+	kept	
+MN582290.1	public	627	78.0	+	kept	
+MN582291.1	public	624	78.0	+	kept	
+MN582292.1	public	594	78.5	+	kept	
+MN582293.1	public	540	78.0	+	kept	
+MN582294.1	public	627	77.7	+	kept	
+MN582295.1	public	594	78.0	+	kept	
+MN582296.1	public	564	79.5	+	kept	
+MN582297.1	public	594	78.5	+	kept	
+MN582298.1	public	594	78.5	+	dropped_duplicate	MN582297.1
+MN582299.1	public	594	78.5	+	dropped_duplicate	MN582297.1
+MN582300.1	public	594	78.3	+	kept	
+MN582301.1	public	594	78.8	+	kept	
+MN582302.1	public	594	78.5	+	kept	
+MN582303.1	public	594	78.5	+	dropped_duplicate	MN582302.1
+MN582304.1	public	546	79.2	+	kept	
+MN582305.1	public	594	78.5	+	kept	
+MN582306.1	public	594	78.5	+	dropped_duplicate	MN582305.1
+MN582307.1	public	594	78.5	+	dropped_duplicate	MN582305.1
+MN582308.1	public	627	78.0	+	kept	
+MN582309.1	public	594	78.6	+	kept	
+MN582310.1	public	543	79.2	+	kept	
+MN582311.1	public	594	78.3	+	kept	
+MN582312.1	public	594	78.3	+	kept	
+MN582313.1	public	567	77.8	+	kept	
+MN582314.1	public	594	78.0	+	kept	
+MN582315.1	public	375	78.4	+	kept	
+MN582316.1	public	594	78.3	+	kept	
+MN582317.1	public	594	78.0	+	kept	
+MN582318.1	public	627	77.7	+	kept	
+MN582319.1	public	588	77.2	+	kept	
+MN582320.1	public	594	78.5	+	kept	
+MN582321.1	public	594	78.1	+	kept	
+MN582322.1	public	594	79.2	+	kept	
+MN582323.1	public	594	79.2	+	dropped_duplicate	MN582322.1
+MN582324.1	public	594	79.2	+	kept	
+MN582325.1	public	594	79.3	+	kept	
+MN582326.1	public	594	79.3	+	kept	
+MN582327.1	public	594	78.0	+	kept	
+MN582328.1	public	594	78.8	+	kept	
+MN582329.1	public	594	78.6	+	kept	
+MN582330.1	public	627	78.0	+	kept	
+MN582331.1	public	594	77.8	+	kept	
+MN582332.1	public	627	77.5	+	kept	
+MN582333.1	public	627	78.9	+	kept	
+MN582334.1	public	567	78.5	+	kept	
+MN582335.1	public	414	78.3	+	kept	
+MN582336.1	public	555	77.7	+	kept	
+MN582337.1	public	564	77.0	+	kept	
+MN582338.1	public	462	77.7	+	kept	
+MN582339.1	public	594	77.5	+	kept	
+MN582340.1	public	594	77.6	+	kept	
+MN582341.1	public	588	77.6	+	kept	
+MN582342.1	public	594	77.1	+	kept	
+MN582343.1	public	627	79.5	+	kept	
+MN582344.1	public	627	79.5	+	dropped_duplicate	MN582343.1
+MN582345.1	public	627	79.5	+	kept	
+MN582346.1	public	627	79.0	+	kept	
+MN582347.1	public	627	79.0	+	dropped_duplicate	MN582346.1
+MN582348.1	public	531	78.6	+	kept	
+MN582349.1	public	588	78.6	+	kept	
+MN582350.1	public	594	78.8	+	kept	
+MT796177.1	public	803			dropped_low_identity	
+MW714604.1	public	648	79.2	+	kept	
+MW714605.1	public	648	78.7	+	kept	
+MW714606.1	public	648	77.5	+	kept	
+MW714607.1	public	648	77.2	+	kept	
+MW714608.1	public	648	76.7	+	kept	
+MW714609.1	public	648	78.0	+	kept	
+MZ754518.1	public	366	77.0	+	kept	
+MZ754519.1	public	366	77.0	+	dropped_duplicate	MZ754518.1
+MZ754520.1	public	366	77.0	+	dropped_duplicate	MZ754518.1
+MZ754521.1	public	348	72.4	+	kept	
+MZ754522.1	public	345	73.0	+	kept	
+MZ754523.1	public	366	77.5	+	kept	
+MZ754524.1	public	366	77.0	+	kept	
+MZ754527.1	public	366	77.8	+	kept	
+OM513687.1	public	627	77.5	+	kept	
+OM513688.1	public	627	76.9	+	dropped_duplicate	MN582237.1
+OM513689.1	public	627	77.5	+	kept	
+OM513690.1	public	627	78.4	+	kept	
+OM513691.1	public	627	78.9	+	kept	
+OM513692.1	public	627	80.3	+	kept	
+OM513693.1	public	627	77.7	+	kept	
+OM513694.1	public	627	80.0	+	kept	
+OM513695.1	public	627	79.0	+	kept	
+OM513696.1	public	627	76.9	+	dropped_duplicate	MN582242.1
+OM513697.1	public	627	77.5	+	dropped_duplicate	OM513687.1
+OM513698.1	public	627	77.5	+	dropped_duplicate	OM513689.1
+OM513699.1	public	627	78.0	+	kept	
+OM513700.1	public	627	78.5	+	kept	
+OM513701.1	public	627	78.5	+	kept	
+OM513702.1	public	627	77.5	+	dropped_duplicate	OM513687.1
+OM513703.1	public	627	77.2	+	kept	
+OM513704.1	public	627	80.2	+	kept	
+OM513705.1	public	627	79.2	+	kept	
+OM513706.1	public	627	76.9	+	dropped_duplicate	MN582242.1
+OM513707.1	public	627	77.5	+	dropped_duplicate	OM513687.1
+OM513708.1	public	627	77.7	+	kept	
+OM513709.1	public	627	77.5	+	dropped_duplicate	OM513689.1
+OM513710.1	public	627	78.9	+	dropped_duplicate	OM513691.1
+OM513711.1	public	627	77.5	+	dropped_duplicate	OM513687.1
+OM513712.1	public	627	77.2	+	kept	
+OM513713.1	public	627	79.7	+	kept	
+OM513714.1	public	627	79.7	+	kept	
+OM513715.1	public	627	76.9	+	dropped_duplicate	MN582242.1
+OM513716.1	public	627	79.2	+	kept	
+OM513717.1	public	627	76.9	+	dropped_duplicate	MN582237.1
+OM513718.1	public	627	76.9	+	kept	
+OM513719.1	public	627	80.2	+	kept	
+OM513720.1	public	627	77.2	+	dropped_duplicate	OM513703.1
+OM513721.1	public	627	80.2	+	dropped_duplicate	OM513704.1
+OM513722.1	public	627	79.2	+	kept	
+OM513723.1	public	627	76.9	+	dropped_duplicate	MN582242.1
+OM513724.1	public	627	77.5	+	dropped_duplicate	OM513687.1
+OM513725.1	public	627	77.5	+	dropped_duplicate	OM513689.1
+OM513726.1	public	627	77.5	+	dropped_duplicate	OM513689.1
+OM513727.1	public	627	80.0	+	dropped_duplicate	MN582161.1
+OM513728.1	public	627	77.2	+	dropped_duplicate	OM513703.1
+OM513729.1	public	627	79.8	+	dropped_duplicate	MN582154.1
+OM513730.1	public	627	79.0	+	kept	
+OM513731.1	public	627	78.0	+	dropped_duplicate	MN582290.1
+OM513732.1	public	627	79.2	+	kept	
+OM513733.1	public	627	79.8	+	kept	
+OM513734.1	public	627	80.0	+	dropped_duplicate	MN582161.1
+OM513735.1	public	627	79.0	+	dropped_duplicate	MN582346.1
+OM513736.1	public	627	80.0	+	kept	
+OM513737.1	public	627	78.2	+	kept	
+OM513738.1	public	627	80.2	+	kept	
+OM513739.1	public	627	77.7	+	kept	
+OM513740.1	public	627	79.2	+	kept	
+OM513741.1	public	627	77.9	+	kept	
+OM513742.1	public	627	80.0	+	dropped_duplicate	MN582161.1
+OM513743.1	public	627	79.5	+	kept	
+OM513744.1	public	627	80.3	+	kept	
+OM513745.1	public	627	76.9	+	kept	
+OM513746.1	public	627	79.8	+	kept	
+OM513747.1	public	627	80.2	+	kept	
+OM513748.1	public	627	78.2	+	kept	
+OM513749.1	public	627	77.7	+	kept	
+OM513750.1	public	627	80.2	+	kept	
+OM513751.1	public	627	77.5	+	kept	
+OM513752.1	public	627	79.8	+	kept	
+OM513753.1	public	627	79.0	+	kept	
+OM513754.1	public	627	77.4	+	kept	
+OM513755.1	public	624	80.0	+	kept	
+OM513756.1	public	627	79.2	+	dropped_duplicate	OM513740.1
+OM513757.1	public	627	77.9	+	kept	
+OM513758.1	public	627	77.0	+	kept	
+OM513759.1	public	627	79.8	+	dropped_duplicate	MN582168.1
+OM513760.1	public	627	79.0	+	dropped_duplicate	OM513753.1
+OM513761.1	public	615	80.6	+	kept	
+OM513762.1	public	627	78.2	+	kept	
+OM513763.1	public	627	80.0	+	kept	
+OM513764.1	public	627	79.0	+	kept	
+OM513765.1	public	627	77.9	+	kept	
+OM513766.1	public	627	79.2	+	dropped_duplicate	OM513740.1
+OM513767.1	public	627	80.0	+	dropped_duplicate	MN582161.1
+OM513768.1	public	627	78.0	+	dropped_duplicate	OM513699.1
+OM513769.1	public	627	80.0	+	dropped_duplicate	MN582161.1
+OM513770.1	public	627	79.0	+	dropped_duplicate	OM513753.1
+OM513771.1	public	627	80.0	+	kept	
+OM513772.1	public	627	77.5	+	kept	
+OM513773.1	public	627	79.0	+	kept	
+OM513774.1	public	627	79.2	+	kept	
+OM513775.1	public	627	78.0	+	dropped_duplicate	OM513699.1
+OM513776.1	public	627	79.5	+	dropped_duplicate	MN582343.1
+OM513777.1	public	627	79.0	+	kept	
+OM513778.1	public	627	79.0	+	dropped_duplicate	OM513753.1
+OM513779.1	public	627	79.0	+	dropped_duplicate	OM513753.1
+OM513780.1	public	627	79.2	+	dropped_duplicate	OM513740.1
+OM513781.1	public	627	79.0	+	kept	
+OM513782.1	public	627	79.0	+	dropped_duplicate	OM513781.1
+OM513783.1	public	612	79.0	+	kept	
+OM513784.1	public	627	78.4	+	kept	
+OM513785.1	public	627	78.4	+	dropped_duplicate	OM513784.1
+OM513786.1	public	627	78.4	+	kept	
+OM513787.1	public	627	78.4	+	dropped_duplicate	OM513784.1
+OM513788.1	public	627	79.3	+	kept	
+OM513789.1	public	627	79.3	+	dropped_duplicate	OM513788.1
+OM513790.1	public	627	79.3	+	dropped_duplicate	OM513788.1
+OM513791.1	public	627	79.3	+	dropped_duplicate	OM513788.1
+OM513792.1	public	627	80.2	+	kept	
+OM513793.1	public	627	80.3	+	kept	
+OM513794.1	public	627	80.0	+	dropped_duplicate	OM513736.1
+OM513795.1	public	627	77.7	+	kept	
+OM513796.1	public	627	80.0	+	dropped_duplicate	MN582161.1
+OM513797.1	public	627	78.0	+	kept	
+OM513798.1	public	621	78.0	+	kept	
+OM513799.1	public	627	77.9	+	dropped_duplicate	OM513741.1
+OM513800.1	public	627	80.0	+	dropped_duplicate	MN582161.1
+OM513801.1	public	627	79.0	+	dropped_duplicate	OM513695.1
+OM513802.1	public	627	79.5	+	kept	
+OM513803.1	public	627	78.0	+	kept	
+OM513804.1	public	627	78.2	+	kept	
+OM513805.1	public	627	78.0	+	kept	
+OM513806.1	public	615	77.6	+	kept	
+OM513807.1	public	627	79.2	+	dropped_duplicate	OM513705.1
+OM513808.1	public	627	79.2	+	kept	
+OM513809.1	public	627	76.9	+	dropped_duplicate	OM513745.1
+OM513810.1	public	627	80.0	+	dropped_duplicate	OM513763.1
+OM513811.1	public	627	76.9	+	dropped_duplicate	MN582242.1
+OM513812.1	public	627	76.9	+	dropped_duplicate	MN582242.1
+OM513813.1	public	627	76.9	+	dropped_duplicate	MN582242.1
+OM513814.1	public	627	76.9	+	dropped_duplicate	MN582242.1
+OM513815.1	public	627	76.9	+	dropped_duplicate	MN582242.1
+OM513816.1	public	627	78.9	+	kept	
+OM513817.1	public	627	79.8	+	kept	
+OM513818.1	public	627	79.3	+	kept	
+OM513819.1	public	627	78.7	+	kept	
+OM513820.1	public	627	79.3	+	kept	
+OM513821.1	public	627	78.5	+	kept	
+OM513822.1	public	627	78.5	+	dropped_duplicate	OM513821.1
+OM513823.1	public	627	77.4	+	kept	
+OM513824.1	public	627	78.9	+	kept	
+OM513825.1	public	627	77.4	+	dropped_duplicate	OM513823.1
+OM513826.1	public	627	78.7	+	kept	
+OM513827.1	public	627	77.4	+	kept	
+OM513828.1	public	627	77.7	+	kept	
+OM513829.1	public	627	78.7	+	kept	
+OM513830.1	public	627	77.4	+	kept	
+OM513831.1	public	627	78.0	+	kept	
+OM513832.1	public	627	77.9	+	kept	
+OM513833.1	public	627	77.0	+	dropped_duplicate	OM513758.1
+OM513834.1	public	627	78.0	+	kept	
+OM513835.1	public	627	77.0	+	dropped_duplicate	OM513758.1
+OM513836.1	public	627	78.4	+	kept	
+OM513837.1	public	627	78.4	+	kept	
+OM513838.1	public	627	77.0	+	dropped_duplicate	OM513758.1
+OM513839.1	public	627	78.0	+	kept	
+OM513840.1	public	627	77.7	+	kept	
+OM513841.1	public	627	77.9	+	kept	
+OM513842.1	public	627	77.5	+	kept	
+OM513843.1	public	609	77.5	+	kept	
+OM513844.1	public	627	78.0	+	kept	
+OM513845.1	public	627	78.0	+	dropped_duplicate	MN582308.1
+OM513846.1	public	627	78.0	+	dropped_duplicate	MN582308.1
+OM513847.1	public	627	79.3	+	dropped_duplicate	OM513788.1
+OM513848.1	public	627	77.5	+	dropped_duplicate	OM513687.1
+OM513849.1	public	627	77.5	+	dropped_duplicate	OM513687.1
+OM513850.1	public	627	77.5	+	dropped_duplicate	OM513687.1
+OM513851.1	public	627	77.5	+	dropped_duplicate	OM513687.1
+OM513852.1	public	627	77.2	+	kept	
+OM513853.1	public	627	80.3	+	kept	
+OM513854.1	public	627	77.5	+	kept	
+OM513855.1	public	627	77.5	+	kept	
+OM513856.1	public	627	77.7	+	kept	
+OM513857.1	public	627	77.5	+	kept	
+OM513858.1	public	627	80.0	+	kept	
+OM513859.1	public	627	80.3	+	kept	
+OM513860.1	public	585	78.5	+	kept	
+OM513861.1	public	627	80.2	+	kept	
+OM513862.1	public	627	80.2	+	dropped_duplicate	OM513861.1
+OM513863.1	public	627	80.3	+	kept	
+OM513864.1	public	627	80.0	+	kept	
+OM513865.1	public	627	79.8	+	kept	
+OM513866.1	public	627	78.2	+	kept	
+OM513867.1	public	621	78.3	+	kept	
+OM513868.1	public	621	78.0	+	kept	
+OM513869.1	public	627	78.4	+	dropped_duplicate	OM513784.1
+OM513870.1	public	627	79.2	+	kept	
+OM513871.1	public	627	77.5	+	kept	
+OM513872.1	public	627	78.2	+	dropped_duplicate	OM513762.1
+OM513873.1	public	627	78.2	+	kept	
+OM513874.1	public	627	78.2	+	kept	
+OM513875.1	public	621	79.8	+	kept	
+OM513876.1	public	627	76.9	+	kept	
+OM513877.1	public	627	80.0	+	dropped_duplicate	OM513736.1
+OM513878.1	public	627	77.4	+	kept	
+OM513879.1	public	627	77.9	+	kept	
+OM513880.1	public	627	77.5	+	kept	
+OM513881.1	public	621	77.3	+	kept	
+OM513882.1	public	621	77.8	+	kept	
+OM513883.1	public	627	77.7	+	kept	
+OM513884.1	public	627	78.9	+	kept	
+OM513885.1	public	627	79.0	+	kept	
+OM513886.1	public	627	79.5	+	kept	
+OM513887.1	public	627	79.5	+	dropped_duplicate	OM513886.1
+OM513888.1	public	627	76.9	+	kept	
+OM513889.1	public	627	78.0	+	kept	
+OM513890.1	public	627	78.4	+	kept	
+OM513891.1	public	627	78.4	+	kept	
+OM513892.1	public	627	78.5	+	kept	
+OP268492.1	public	614	99.8	+	kept	
+OP268493.1	public	614	99.3	+	kept	
+OP268494.1	public	614	100.0	+	kept	
+OP268495.1	public	614	99.1	+	kept	
+OQ918595.1	public	603	82.7	+	kept	
+OQ918596.1	public	565	82.8	+	kept	
+OQ918612.1	public	574	80.7	+	kept	
+OQ985174.1	public	605	81.0	+	kept	
+OQ985175.1	public	609	81.0	+	kept	
+OR726343.1	public	639	77.5	+	kept	
+OR726344.1	public	595	76.8	+	kept	
+OR726345.1	public	647	77.3	+	kept	
+OR726346.1	public	650	77.3	+	kept	
+OR726347.1	public	639	77.3	+	kept	
+OR750826.1	public	573	84.9	+	kept	
+OR751414.1	public	640	79.8	+	kept	
+OR751415.1	public	623	79.9	+	kept	
+OR859554.1	public	1079	99.2	+	kept	
+OR859555.1	public	1080	99.2	+	kept	
+OR859556.1	public	1048	99.2	+	kept	
+OR859557.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859558.1	public	1048	99.2	+	dropped_duplicate	OR859556.1
+OR859559.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859560.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859561.1	public	1064	98.9	+	kept	
+OR859562.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859563.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859564.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859565.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859566.1	public	1080	98.9	+	kept	
+OR859567.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859568.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859569.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859570.1	public	1034	99.2	+	kept	
+OR859571.1	public	1069	99.2	+	kept	
+OR859572.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859573.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+OR859574.1	public	704	99.2	+	kept	
+OR859575.1	public	1080	99.2	+	dropped_duplicate	OR859555.1
+PP697831.1	public	640	81.3	+	kept	
+PQ788893.1	public	621	80.7	+	kept	
+PQ788894.1	public	621	80.7	+	dropped_duplicate	PQ788893.1
+PV983600.1	public	657	77.5	+	kept	
+PV983610.1	public	657	77.2	+	kept	
+PX092181.1	public	637	79.5	+	kept	
+PX092182.1	public	661	80.0	+	kept	
+PX092183.1	public	649	80.0	+	kept	
+PX092184.1	public	630	78.9	+	kept	
+PX092185.1	public	634	78.4	+	kept	
+PX092186.1	public	634	78.5	+	kept	
+PX092187.1	public	633	78.4	+	kept	
+PX092188.1	public	630	78.3	+	kept	
+PX092189.1	public	630	78.3	+	dropped_duplicate	PX092188.1
+PX092190.1	public	654	79.8	+	kept	
+PX092191.1	public	623	77.4	+	kept	
+PX092192.1	public	626	78.3	+	kept	
+PX092193.1	public	625	78.3	+	kept	
+PX128246.1	public	421	77.7	+	kept	
+PX128247.1	public	421	77.9	+	kept	
+PX128248.1	public	421	77.5	+	kept	
+PX696973.1	public	610	100.0	+	kept	
+PX696974.1	public	563	100.0	+	kept	
+PX696975.1	public	598	100.0	+	kept	
+AB741765.1	public	658	77.4	+	kept	
+AF520435.1	public	703	76.6	-	kept	
+AY152751.1	public	637	75.7	+	kept	
+EF989709.1	public	815	77.9	+	kept	
+FJ581464.1	public	658	72.1	+	kept	
+HM380165.1	public	638	75.2	+	kept	
+HQ679919.1	public	582	74.6	+	kept	
+HQ945468.1	public	660	75.6	+	kept	
+HQ987379.1	public	657	72.5	+	kept	
+JN009894.1	public	1433	77.9	+	kept	
+JX545449.1	public	710	74.3	+	kept	
+JX545472.1	public	710	75.9	+	kept	
+KF369187.1	public	658	76.4	+	kept	
+KF808158.1	public	653	75.4	+	kept	
+KM068102.1	public	630	74.5	+	kept	
+KM611560.1	public	658	74.8	+	kept	
+KM611619.1	public	658	75.7	+	kept	
+KT208717.1	public	658	73.9	+	kept	
+KT208744.1	public	658	74.3	+	kept	
+KT958045.1	public	1198	80.3	+	kept	
+KX812472.1	public	658	77.5	+	kept	
+LC637608.1	public	658			dropped_low_identity	
+LC671965.1	public	647	73.3	+	kept	
+MG655917.1	public	623	73.8	+	kept	
+MG655918.1	public	623	73.6	+	kept	
+MK721831.1	public	628	76.9	+	kept	
+MT518133.1	public	657	73.3	+	kept	
+MW324680.1	public	683	73.6	+	kept	
+OP466463.1	public	659	73.6	+	kept	
+OP933755.1	public	632	74.6	+	kept	
+OP933756.1	public	632	75.9	+	kept	
+OQ323214.1	public	658	71.0	+	kept	
+OQ512243.1	public	606	75.4	+	kept	
+OQ512531.1	public	606	72.4	+	kept	
+OR198439.1	public	623	71.6	+	kept	
+PP390979.1	public	618	75.6	+	kept	
+PV991283.1	public	636	77.4	+	kept	
+PZ177596.1	public	636	73.1	+	kept	
+PZ830451.1	public	658	76.9	+	kept	
+QB095133.1	public	635	76.1	+	kept	
+alba_pcr_2025-03-01	pcr	626	75.9	+	kept	
+anvi_pcr_2025-07-09	pcr	581	77.5	+	kept	
+biri_pcr_2025-03-06	pcr	608	75.4	+	kept	
+brsk_pcr_2025-07-14	pcr	600	76.5	+	kept	
+chol_pcr_2025-03-11	pcr	628	76.8	+	kept	
+crsp_pcr_2025-07-19	pcr	610	99.2	+	kept	
+deep_pcr_2025-03-16	pcr	583	75.0	+	kept	
+drft_pcr_2025-07-24	pcr	577	76.4	+	kept	
+easy_pcr_2025-03-21	pcr	574	98.3	+	kept	
+fern_pcr_2025-03-26	pcr	639	77.0	+	kept	
+gaze_pcr_2025-03-31	pcr	627	76.7	+	kept	
+hope_pcr_2025-04-05	pcr	621	79.1	+	kept	
+isle_pcr_2025-04-10	pcr	597	75.8	+	kept	
+jolt_pcr_2025-04-15	pcr	575	76.2	+	kept	
+kelp_pcr_2025-04-20	pcr	571	77.2	+	kept	
+loch_pcr_2025-04-25	pcr	568	76.7	+	kept	
+moor_pcr_2025-04-30	pcr	617	76.8	+	kept	
+nova_pcr_2025-05-05	pcr	650	76.1	+	kept	
+oslo_pcr_2025-05-10	pcr	615	76.0	+	kept	
+pine_pcr_2025-05-15	pcr	621	79.7	+	kept	
+quay_pcr_2025-05-20	pcr	552	75.9	+	kept	
+rove_pcr_2025-05-25	pcr	563	76.0	+	kept	
+silt_pcr_2025-05-30	pcr	650	76.8	+	kept	
+tarn_pcr_2025-06-04	pcr	589	75.7	+	kept	
+urge_pcr_2025-06-09	pcr	621	79.9	+	kept	
+vale_pcr_2025-06-14	pcr	635	76.1	+	kept	
+wand_pcr_2025-06-19	pcr	631	76.9	+	kept	
+xena_pcr_2025-06-24	pcr	621	79.4	+	kept	
+yawn_pcr_2025-06-29	pcr	582	76.5	+	kept	
+zest_pcr_2025-07-04	pcr	586	76.4	+	kept	
+genome_hyalella_sp_ata01_cox1_extracted	genome	1569	78.9	+	kept	
+genome_hyalella_sp_ata02_cox1_extracted	genome	1560	79.3	+	kept	
+genome_hyalella_sp_ata03_cox1_extracted	genome	1560	80.0	+	kept	
+genome_hyalella_sp_ata04_cox1_extracted	genome	1560	79.2	+	kept	
+genome_hyalella_sp_ata05_cox1_extracted	genome	1560	79.7	+	kept	
+genome_hyalella_sp_ata06_cox1_extracted	genome	1560	78.9	+	kept	
+genome_hyalella_sp_ata07_cox1_extracted	genome	1560	79.8	+	kept	
+genome_hyalella_sp_ata08_cox1_extracted	genome	1569	83.3	+	kept	
+genome_hyalella_sp_ata09_cox1_extracted	genome	1560	79.5	+	kept	
+genome_hyalella_sp_ata10_cox1_extracted	genome	1560	79.0	+	kept	

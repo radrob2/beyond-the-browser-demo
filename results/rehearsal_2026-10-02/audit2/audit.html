@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Audit: Atacama Hyalella cox1 report</title>
+<style>
+  :root {
+    --bg: #ffffff; --fg: #0b0b0b; --muted: #3a3a3a; --rule: #c9c9c9;
+    --bad: #b00020; --warn: #8a5300; --good: #0b6b2e; --ask: #1f4fbf;
+    --panel: #f2f2f2;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0b0b0b; --fg: #f7f7f7; --muted: #d0d0d0; --rule: #4a4a4a;
+      --bad: #ff6b7d; --warn: #ffbf5e; --good: #6be08f; --ask: #8fb4ff;
+      --panel: #1c1c1c;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-snap-type: y mandatory; background: var(--bg); }
+  body {
+    background: var(--bg); color: var(--fg);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: clamp(22px, 2.35vw, 46px); line-height: 1.28;
+  }
+  section {
+    min-height: 100vh; scroll-snap-align: start;
+    padding: 4.5vh 5vw; display: flex; flex-direction: column; justify-content: center;
+    border-bottom: 3px solid var(--rule);
+  }
+  .tag { font-size: 0.62em; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin-bottom: 1.6vh; }
+  h1 { font-size: 1.55em; line-height: 1.15; font-weight: 800; margin-bottom: 3vh; }
+  h2 { font-size: 1.45em; line-height: 1.12; font-weight: 800; margin-bottom: 3vh; }
+  .counts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.6vw; margin-bottom: 3.5vh; }
+  .count { background: var(--panel); border-radius: 14px; padding: 2vh 1.2vw; border-top: 10px solid var(--rule); }
+  .count b { display: block; font-size: 2.6em; line-height: 1; font-weight: 900; font-variant-numeric: tabular-nums; }
+  .count span { display: block; font-size: 0.7em; font-weight: 600; margin-top: 0.6vh; }
+  .c-bad { border-top-color: var(--bad); } .c-bad b { color: var(--bad); }
+  .c-warn { border-top-color: var(--warn); } .c-warn b { color: var(--warn); }
+  .c-good { border-top-color: var(--good); } .c-good b { color: var(--good); }
+  .c-ask { border-top-color: var(--ask); } .c-ask b { color: var(--ask); }
+  blockquote {
+    font-size: 1.12em; font-weight: 700; line-height: 1.25;
+    border-left: 14px solid var(--bad); padding: 1vh 0 1vh 2vw;
+  }
+  ol.find { list-style: none; counter-reset: f; }
+  ol.find li { counter-increment: f; position: relative; padding-left: 2.2em; margin-bottom: 3.2vh; }
+  ol.find li::before {
+    content: counter(f); position: absolute; left: 0; top: 0;
+    width: 1.5em; height: 1.5em; border-radius: 50%; background: var(--bad); color: var(--bg);
+    font-weight: 900; display: flex; align-items: center; justify-content: center; font-size: 0.95em;
+  }
+  .claim { font-weight: 800; display: block; }
+  .ev { display: block; color: var(--muted); font-size: 0.8em; margin-top: 0.5vh; font-variant-numeric: tabular-nums; }
+  ul.list { list-style: none; display: grid; grid-template-columns: 1fr 1fr; gap: 1.8vh 3vw; }
+  ul.list li { padding-left: 1.3em; position: relative; font-size: 0.82em; line-height: 1.25; }
+  ul.list li::before { position: absolute; left: 0; font-weight: 900; }
+  .ok li::before { content: "✓"; color: var(--good); }
+  .q li::before { content: "?"; color: var(--ask); }
+  ul.list li b { font-weight: 800; }
+  .sub { font-size: 0.7em; color: var(--muted); margin-top: 3vh; }
+  .split { display: grid; grid-template-columns: 1fr 1fr; gap: 4vw; }
+  .split h3 { font-size: 0.8em; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 2vh; color: var(--ask); }
+  .split ul.list { grid-template-columns: 1fr; }
+  @media (max-aspect-ratio: 4/3) {
+    .counts { grid-template-columns: repeat(2, 1fr); }
+    ul.list, .split { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<section id="verdict">
+  <div class="tag">Audit of share/report.md · 1 / 4 · Verdict</div>
+  <h1>The main conclusion stands: 18 samples are high-Andean <i>H.</i> sp.&nbsp;O, 3 sit with the Titicaca flock, and 19 match North American lineages.</h1>
+  <div class="counts">
+    <div class="count c-bad"><b>6</b><span>claims contradicted</span></div>
+    <div class="count c-warn"><b>6</b><span>misleading or weak</span></div>
+    <div class="count c-good"><b>30</b><span>verified correct</span></div>
+    <div class="count c-ask"><b>6</b><span>need a domain expert</span></div>
+  </div>
+  <blockquote>“The QC reference sequence that the report says is in no output is in the tree. It is also the closest match to two of our Atacama samples.”</blockquote>
+</section>
+
+<section id="wrong">
+  <div class="tag">2 / 4 · What's wrong</div>
+  <h2>The three most serious findings</h2>
+  <ol class="find">
+    <li>
+      <span class="claim">The QC reference is in the data, the alignment, the tree and the figure.</span>
+      <span class="ev">All 610 of 610 bp are identical to PX696973.1 (Lyon lab culture). It is the nearest relative of crsp (99.2&nbsp;%) and easy (98.3&nbsp;%).</span>
+    </li>
+    <li>
+      <span class="claim">The tree figure shows support values on the wrong branches.</span>
+      <span class="ev">Re-rooting shifted labels on 20 of 233 nodes, and 10 “strong” dots are wrong. The report's “81–95&nbsp;%” for the genome-derived samples is really 74&nbsp;% and 59&nbsp;%.</span>
+    </li>
+    <li>
+      <span class="claim">The download counts 139 GenBank records a second time as “BOLD-only”.</span>
+      <span class="ev">132 of the 2,088 “not in GenBank” records have the same sequence as a GenBank record. crsp's “4 equally close” hits are really 2 sequences counted twice.</span>
+    </li>
+  </ol>
+</section>
+
+<section id="ok">
+  <div class="tag">3 / 4 · What checks out</div>
+  <h2>Recomputed and confirmed</h2>
+  <ul class="list ok">
+    <li><b>All 40 nearest-relative identities</b> reproduced exactly by a full, uncapped search.</li>
+    <li><b>BLAST agrees</b> on the lineage for 38 of 40 samples.</li>
+    <li><b>sp.&nbsp;O clade:</b> 18 samples with Argentine, Chilean and Peruvian records, UFBoot 99.</li>
+    <li><b>Nevada 100, Alberta 99, France 100</b>; Titicaca trio placement weak (55).</li>
+    <li><b>Identity ranges</b> are all right: every sample ≥&nbsp;97.2&nbsp;%, 36 of 40 ≥&nbsp;98&nbsp;%.</li>
+    <li><b>No sequence the QC dropped</b> is closer to any sample than its reported relative.</li>
+    <li><b>QC counts:</b> 8 short, 58 low-identity, 40 of 40 ours passed, 1,949 unique.</li>
+    <li><b>Pipeline numbers:</b> 236 tips, 1,570 → 638 columns, TIM+F+I+R5, constraint applied.</li>
+  </ul>
+</section>
+
+<section id="human">
+  <div class="tag">4 / 4 · What needs a human</div>
+  <div class="split">
+    <div>
+      <h3>Only someone who knows these samples</h3>
+      <ul class="list q">
+        <li>Does this lab handle the Lyon <i>H.&nbsp;azteca</i> culture or its DNA?</li>
+        <li>Were the genome animals collected at the same Atacama sites as the PCR animals?</li>
+        <li>Is <i>H.</i> sp.&nbsp;C2 “3TK10” really Titicaca, or the same population as sp.&nbsp;O?</li>
+        <li>Is the Nevada match a narrow spring endemic? Equally close <i>H.&nbsp;azteca</i> records have no locality.</li>
+        <li>Why do 56 Canadian BOLD <i>H.&nbsp;azteca</i> records fail the cox1 filter?</li>
+        <li>Does sp.&nbsp;O, 2–3&nbsp;% away from biri and jolt, need a formal description?</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Could not verify</h3>
+      <ul class="list q">
+        <li>That an unconstrained tree pulls outgroups into <i>Hyalella</i>. No unconstrained run was kept.</li>
+        <li>Whether the downloads are complete. The raw BOLD file was not kept.</li>
+        <li>Geography taken from paper titles (“Titicaca”, “eastern North America”).</li>
+        <li>Alignment and tree re-runs. I checked their outputs, not the runs themselves.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>

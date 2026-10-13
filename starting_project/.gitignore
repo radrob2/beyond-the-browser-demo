@@ -1,0 +1,30 @@
+# Large data and outputs (track .gitkeep / .claude-sealed so the dirs
+# exist on fresh checkout)
+data/*
+!data/.claude-sealed
+work/*
+!work/.gitkeep
+logs/*
+!logs/.gitkeep
+bin/
+
+# Sequence files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fa
+*.bam
+*.sam
+*.vcf
+*.bcf
+
+# System
+.DS_Store
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc

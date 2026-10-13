@@ -1,0 +1,7 @@
+[06] trimal -gt 0.5 (drop columns with > 0.5 gaps)
+[06] trimmed alignment: 115 sequences x 636 columns
+[06] dropped for < 200 bp left after trimming: 0 
+[06] wrote <project>/work/06_trim/06_trim_cox1.fasta
+real 1.35
+user 0.65
+sys 0.19

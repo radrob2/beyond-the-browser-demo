@@ -1,0 +1,13 @@
+name: hyalella-cox1-v1
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.12
+  - biopython
+  - matplotlib-base
+  - mafft
+  - trimal
+  - fasttree
+  - vsearch

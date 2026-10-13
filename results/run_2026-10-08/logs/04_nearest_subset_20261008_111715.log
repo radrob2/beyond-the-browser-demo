@@ -1,0 +1,11 @@
+[04] own samples passing QC: 40; public unique sequences: 869
+[04] vsearch: every sample of ours vs every QC-passed public sequence
+[04] table rows (one per sample of ours): 40
+[04]    40  matches a known lineage
+[04] tree subset: 115 of 909 QC-passed sequences (backbone 22, neighbour 43, outgroup 10, own 40)
+[04] outgroups passing QC: 39 sequences / 39 genera; kept 10
+[04] wrote <project>/share/table/04_nearest_public_relatives.tsv
+[04] wrote <project>/work/04_subset/04_subset_cox1.fasta
+real 2.06
+user 8.57
+sys 0.27
