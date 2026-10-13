@@ -30,14 +30,15 @@ starting_project/          the project folder exactly as the agent first saw it
   utils/normalize_fasta.py a small FASTA helper
   .claude/settings.json    pre-approves file edits so the agent does not stop to ask on every file
 results/
-  run_2026-10-08/          the run from the session day: config.sh, environment.yml, readme.md, src/,
+  live_run_2026-10-08/     the live run during the session: config.sh, environment.yml, readme.md, src/,
                            share/ (tree, tables, report.md, summary.html), logs/, work/
   rehearsal_2026-10-02/    an earlier full rehearsal, plus TWO independent audits of it
                            (audit1/audit.md, audit2/audit.md, audit2/audit.html)
 ```
 
-Open `results/run_2026-10-08/share/summary.html` and `results/rehearsal_2026-10-02/audit2/audit.html` in a
-browser to see the pages that were projected. `report.md` has the full write-up.
+Open `results/live_run_2026-10-08/share/summary.html` in a browser to see the page projected in the session,
+and `report.md` for the full write-up. The audit from the live run was not saved, but the exact prompt used is
+`prompts/audit_prompt.md`. To see what an audit produces, open `results/rehearsal_2026-10-02/audit2/audit.html`.
 
 The `config.sh`, `environment.yml`, `readme.md` and everything in `src/` were written by the agent. They are
 not in `starting_project/`; producing them is part of the task.
@@ -62,7 +63,7 @@ Notes:
   included here. With invented data it does not matter, but think about it before using real data.
 - The rehearsal run used an earlier version of the build prompt without the five-minute compute cap. It
   pulled from both NCBI and BOLD, built the tree with IQ-TREE, and the whole build took about 32 minutes.
-  The session-day run used NCBI only and FastTree, and its pipeline runs in a few minutes. The rehearsal
+  The live run used NCBI only and FastTree, and its pipeline runs in a few minutes. The rehearsal
   folder's layout is flattened (no `share/` folder).
 
 ## About the data
@@ -83,3 +84,9 @@ samples. Do not use any of the biological conclusions in `results/`.
   only by name.
 
 </details>
+
+## License
+
+Everything in this repository is dedicated to the public domain under [CC0 1.0](LICENSE). Use, copy, modify
+and share it for any purpose, no attribution required. Public sequences downloaded from NCBI (in `work/`)
+remain subject to NCBI's own terms.
